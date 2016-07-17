@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h1>{{ page.category }}</h1>
+<h1>{{ page.categories }}</h1>
 
 <ul>
-{% for post in site.tags[page.categories] %}
+{% for post in site.catgories[page.categories] %}
   <li>
     {{ post.date | date: " %d %B %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
   </li>

@@ -5,7 +5,7 @@ layout: default
 <h1>{{ page.category }}</h1>
 
 <ul>
-{% for post in site.tags[page.category] %}
+{% for post in site.tags[page.categories] %}
   <li>
     {{ post.date | date: " %d %B %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
   </li>

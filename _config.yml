@@ -1,5 +1,5 @@
 name: btmbtm
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-kramdown:
-  input: GFM
+redcarpet:
+  extensions: []
 permalink: /blog/:year/:month/:day/:title

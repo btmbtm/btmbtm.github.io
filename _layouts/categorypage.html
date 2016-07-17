@@ -16,7 +16,7 @@ layout: default
     <li> {{ post.date | date: " %d %B %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
-
+<!-- SOURCE: http://stackoverflow.com/a/20777475 -->
 
 <!--
 <ul>

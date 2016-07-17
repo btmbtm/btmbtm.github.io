@@ -2,6 +2,7 @@
 layout: post
 title: "JUST A TEST"
 date: 2011-12-31
+category: FUN
 tags: [random]
 ---
 

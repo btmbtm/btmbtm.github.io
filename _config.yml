@@ -1,6 +1,4 @@
 name: btmbtm
-markdown: redcarpet
+markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-redcarpet:
-  extensions: []
 permalink: /blog/:year/:month/:day/:title

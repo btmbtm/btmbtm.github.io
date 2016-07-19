@@ -1,13 +1,10 @@
 ---
 layout: post
-title: mdworks (#1) [Encyclopedia Entry] HTML global *accesskey* attribute
+title: mdworks (#1) | HTML global *accesskey* attribute [Encyclopedia Entry]
 date: 2016-07-15
 category: mdworks
 tags: []
 ---
-
-
-# HTML global *accesskey* attribute
 
 *the accesskey attribute generates keyboard shortcuts for HTML elements*
 
@@ -48,6 +45,8 @@ HTML:
 OUTPUT:
 
 <a href="https://en.wikipedia.org/wiki/Main_Page" accesskey="w">English Wikipedia</a> [w]
+
+<hr> 
 
 Try jumping to Wikipedia using the `w` accesskey. Please come back using your browsers back button before jumping down the Wiki rabbit hole! 
 
@@ -90,10 +89,11 @@ OUTPUT:
    </fieldset>
 </form>
 
+<hr> 
+
 Try jumping around the input elements using their indicated access keys. Tab should also work too! 
 
-You may be wondering why I set the accesskey for Email to `m` instead of `e`. The answer is simply because on my Chrome broswer, `Alt` + `e` opens the main menu in Chrome. These sort of conflicts are a major pain point when using accesskeys. These issues will be covered in a following section.
-
+You may be wondering why the accesskey for Email is set to `m` instead of `e`. The answer is simply because on my Chrome broswer, `Alt` + `e` opens the main menu in Chrome. These sort of conflicts are a major pain point when using accesskeys. These issues will be covered in a following section.
 
 ## Access Key Discoverability Methods
 
@@ -101,6 +101,7 @@ You may be wondering why I set the accesskey for Email to `m` instead of `e`. Th
 Users are often unaware of the avaliability of accesskey shortcuts on webpages as there is currently no standard method of indicating accesskeys. Even when websites hint at accesskeys, users may be unaware of the meaning of the hints or lack knowledge of how to use accesskey shortcuts.
 
 #### Solutions
+
 Some methods of incidating accesskey shortcuts include: 
 
 1. Hints via underlining, brackets etc
@@ -113,7 +114,7 @@ Some methods of incidating accesskey shortcuts include:
 
 	<a href="" accesskey="1"> A link </a> (Accesskey: 1)
 	
-	This method falls short when users do not know what accesskeys are.	It also influences the flow and appearance of the webpage.
+	This method falls short when users do not know what accesskeys are. It also influences the flow and appearance of the webpage.
 
 3. Putting full accesskey keystroke shortcut next to the element
 
@@ -138,15 +139,11 @@ Some methods of incidating accesskey shortcuts include:
 
 ## Other Issues 
 
-
-
 1. Broswer/OS Shortcut Conflicts: Many browsers and operating systems have default shortcuts that will override any accesskey shortcuts. This makes it hard to implement accesskeys as the shortcuts vary on the vast array of operating systems and browsers. To overcome this use numeric keycodes[0-9] that are usually not set as shortcuts on most operating systems and browsers. Although there is no gaurantee there will be no conflicts, this method is sound.
 
 1. Activation: Depending on OS and browser environments, access keys set on a link or button may or may not activate when jumped to with an access key shortcut. Regardless, every browser will at minimum access the element.  
 
 2. Standards: There are no acceepted access key standards. This means users used to other websites access keys may be confused by how access keys are implemented on your website. 
-
-
 
 ## Broswer and HTML Version Support
 
@@ -155,7 +152,7 @@ Some methods of incidating accesskey shortcuts include:
 2. HTML Version Support
 	1. HTML5: the accesskey attribute can be applied to *any* element
 	2. HTML4.01: the accesskey attribute can only be applied to:
-	
+	3. 
 		`<a>, <area>, <button>, <input>, <label>, <legend>, <textarea>`
 		
 ## Suggestions
@@ -171,12 +168,13 @@ Access keys are not generally worth implementing. The major cases against access
 4. Access keys are often unknown and confusing to beginners
 
 
-If you think the pros of implementing access keys on your website outweight these  issues and would be of benefit to your users, I suggest the following: 
+If you think the pros of implementing access keys on your website outweight these issues and would be of benefit to your users, I suggest the following: 
 
 1. Set access keys for elements allowed w/ the HTML4.01 standard: 
 
 	1. Links/anchors
 	2. Form control elements
+	
 2. Keep access keys to a minimum
 
 2. Only use numeric access keys to avoid most shortcut conflicts.
@@ -185,7 +183,7 @@ If you think the pros of implementing access keys on your website outweight thes
 
 ## Resources
 
-Comprehensive: 
+Reference: 
 
 1. [Web AIM | Keyboard Accessibility: Accesskey](http://webaim.org/techniques/keyboard/accesskey)
 2.  [MDN | accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)

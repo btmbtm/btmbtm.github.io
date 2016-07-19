@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#11) | DOM: Creating Nodes Dynamically [Article]
+title: mdworks (#11) | DOM Creating Nodes Dynamically [Article]
 date: 2016-07-19
 category: mdworks
 tags: []

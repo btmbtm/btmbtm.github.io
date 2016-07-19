@@ -26,7 +26,7 @@ It is commonly used when declaring and initializing a variable as so:
 var string1 = String(object/literal/variable)
 ```
 
-##Example 1: String() Conversion Omnibus
+## Example 1: String() Conversion Omnibus
 
 Here we will look at basic uses of String() and outputs.
 
@@ -102,7 +102,7 @@ Best practice here is to avoid using the `new String()` constructor and stick to
 
 
 <a id="Example4"></a>
-##Example 4: The Global String() Function and Object.prototype.toString()
+## Example 4: The Global String() Function and Object.prototype.toString()
 
 By default when using String() on an object, it returns the meaningless  `[object Object]`. We can solve this by overriding the default toString() function all Objects inherit. To do this simply set the Object's prototype function toString() to a function that returns a string. By doing this, whenever you use the global String() function on any object of the type, it will call the objects toString() function. Check the example below for further understanding.
 

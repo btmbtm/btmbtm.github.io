@@ -186,4 +186,4 @@ If you think the pros of implementing access keys on your website outweight thes
 Reference: 
 
 1. [Web AIM | Keyboard Accessibility: Accesskey](http://webaim.org/techniques/keyboard/accesskey)
-2.  [MDN | accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)
+2. [MDN | accesskey](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)

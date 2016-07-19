@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#4) | Javascript Delete Keyword [Question]
+title: mdworks (#4) | JavaScript <em>delete<em> Keyword [Question]
 date: 2016-07-19
 category: mdworks
 tags: []

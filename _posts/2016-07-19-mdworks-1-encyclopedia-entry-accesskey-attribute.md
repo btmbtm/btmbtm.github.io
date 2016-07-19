@@ -64,13 +64,13 @@ HTML:
    <fieldset>   
       <legend> Contact Info </legend>
 
-      <label> <u>N</u>ame: </lable><br>
+      <label> <u>N</u>ame: </label><br>
       <input type="text" accesskey="n"><br>
 
-      <label> E<u>m</u>ail: </lable><br>
+      <label> E<u>m</u>ail: </label><br>
       <input type="text" accesskey="e"><br>
 
-      <label> <u>A</u>ge: </lable><br>
+      <label> <u>A</u>ge: </label><br>
       <input type="text" accesskey="a"><br>
    </fieldset>
 </form>
@@ -81,10 +81,10 @@ OUTPUT:
 <form style="width:50%;">
    <fieldset>   
       <legend style="font-size:1.5em;"> Contact Info </legend>
-      <label style="font-size:1.2em;"> <u>N</u>ame: </lable><br>
+      <label style="font-size:1.2em;"> <u>N</u>ame: </label><br>
       <input type="text" accesskey="n"><br>
-      <label style="width:50%;"> E<u>m</u>ail </lable><br><input type="text" accesskey="m"><br>
-      <label style="width:50%;"> <u>A</u>ge: </lable><br><input type="text" accesskey="a"><br><br>
+      <label style="width:50%;"> E<u>m</u>ail </label><br><input type="text" accesskey="m"><br>
+      <label style="width:50%;"> <u>A</u>ge: </label><br><input type="text" accesskey="a"><br><br>
 			<input type="submit" value="Submit"/>
    </fieldset>
 </form>

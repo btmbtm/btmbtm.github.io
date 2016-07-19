@@ -14,6 +14,8 @@ The syntax is as so:
 
 `delete obj.property`
 
+or
+
 `delete obj[property]`
 
 If *a property* can be deleted `true` will return (this means that even if the property does not exist, `true` will return). If the property cannot be deleted, `false` will return. 

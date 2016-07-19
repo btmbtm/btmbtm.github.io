@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#6) | JavaScript variable scope [Question]
+title: mdworks (#06) | JavaScript variable scope [Question]
 date: 2016-07-19
 category: mdworks
 tags: []

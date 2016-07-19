@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#9) | DOM Traversal via Node Relationships [Question]
+title: mdworks (#09) | DOM Traversal via Node Relationships [Question]
 date: 2016-07-19
 category: mdworks
 tags: []

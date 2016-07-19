@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#7) | Document Object Model (DOM) [Question]
+title: mdworks (#07) | Document Object Model (DOM) [Question]
 date: 2016-07-19
 category: mdworks
 tags: []

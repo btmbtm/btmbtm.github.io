@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#3) | CSS Box Model [Question]
+title: mdworks (#05) | CSS Box Model [Question]
 date: 2016-07-19
 category: mdworks
 tags: []
@@ -22,3 +22,4 @@ An element's **padding** is the space between an object's content and its border
 An element's *border* surround and element's content and padding. By default there is no border, but it can be changed by setting an element's CSS border property. 
 
 An element's *margin* is the space that separates an element and its content, padding, and border from other elements. By default an element's margin is 0, and can be changed via an element's CSS margin property. 
+

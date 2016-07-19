@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#8) | DOM NodeList [Question]
+title: mdworks (#08) | DOM NodeList [Question]
 date: 2016-07-19
 category: mdworks
 tags: []

@@ -14,7 +14,7 @@ Before exploring the :target pseudo-class we must understand inner links, and ho
 
 HTML:
 
-		<a href="#article1"> Article 1 </a>
+		<a href="article1"> Article 1 </a>
 
 		<article id="#article1"> 
 		<h1> THIS IS THE FIRST ARTICLE </h1>

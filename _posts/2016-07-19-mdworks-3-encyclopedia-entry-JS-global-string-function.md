@@ -102,6 +102,7 @@ Best practice here is to avoid using the `new String()` constructor and stick to
 
 
 <a id="Example4"></a>
+
 ## Example 4: The Global String() Function and Object.prototype.toString()
 
 By default when using String() on an object, it returns the meaningless  `[object Object]`. We can solve this by overriding the default toString() function all Objects inherit. To do this simply set the Object's prototype function toString() to a function that returns a string. By doing this, whenever you use the global String() function on any object of the type, it will call the objects toString() function. Check the example below for further understanding.
@@ -137,7 +138,7 @@ As you can see, String() returns meaningful output!
 - String() can handle converting null and undefined to string (unlike toString()).
 - String() will produce the same output as using string concatenation `+ ''`
 
-##Resources
+## Resources
 
 Reference: 
 

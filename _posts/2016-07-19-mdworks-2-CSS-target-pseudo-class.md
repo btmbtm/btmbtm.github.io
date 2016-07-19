@@ -40,7 +40,7 @@ OUTPUT:
 <hr>
 So when you click the link to Article 1, the `article` element with the id *article1* is targeted and is appened to the end of the URI as the *fragment identifier* as such: 
 
-www.websitename.com/index.html/**#article1**
+http://btmbtm.github.io/blog/2016/07/19/mdworks-2-CSS-target-pseudo-class**#article1**
 
 Now that you understand how a link can *target* any element on the same webpage, it is much easier to understand how the :target pseudo-class works. The :target pseudo-class simply allows us to style the *targeted* link. This is useful for highlighting linked content so the user understands what the link is refering to. Often this is powerful when webpage cannot properly to a link at the bottom of a page, or when scrolling may not by itself may not be enough to identify linked content. 
 

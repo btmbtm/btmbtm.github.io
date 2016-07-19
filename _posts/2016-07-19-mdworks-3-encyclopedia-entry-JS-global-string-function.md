@@ -10,8 +10,6 @@ tags: []
 
 The global String() function is used to convert object and primatives into String literals (not String objects). Since String() is a built-in global function it can be used anywhere within a script. 
 
-## How String() Creates a String
-
 ## Syntax
 
 The basic sytax for String() is as so: 
@@ -133,10 +131,10 @@ As you can see, String() returns meaningful output!
 ## Summary Notes
 
 
-- String(obj/literal/var) converts input to string literal. It is a global function that can be accessed anywhere.
-- String() is explicit!
-- String() can handle converting null and undefined to string (unlike toString()).
-- String() will produce the same output as using string concatenation `+ ''`
+1. String(obj/literal/var) converts input to string literal. It is a global function that can be accessed anywhere.
+2. String() is explicit and is of great use for creating clean and clear code!
+3. String() can handle converting null and undefined to string (unlike toString()).
+4. String() will produce the same output as using string concatenation `+ ''`
 
 ## Resources
 

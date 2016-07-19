@@ -6,8 +6,6 @@ category: mdworks
 tags: []
 ---
 
-# JavaScript Global *String()* Function
-
 *the global String() function converts ojbects and primatives into string literals*
 
 The global String() function is used to convert object and primatives into String literals (not String objects). Since String() is a built-in global function it can be used anywhere within a script. 

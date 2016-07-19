@@ -81,7 +81,7 @@ OUTPUT:
 <form style="width:50%;">
    <fieldset>   
       <legend style="font-size:1.5em;"> Contact Info </legend>
-      <label style="font-size:1.2em;"> <u>N</u>ame: </label><br>
+      <label style="width:50%"> <u>N</u>ame: </label><br>
       <input type="text" accesskey="n"><br>
       <label style="width:50%;"> E<u>m</u>ail </label><br><input type="text" accesskey="m"><br>
       <label style="width:50%;"> <u>A</u>ge: </label><br><input type="text" accesskey="a"><br><br>

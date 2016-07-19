@@ -40,4 +40,5 @@ After deleting the *loc* property, it becomes *undefined*. *Delete* successful!
 For a thorough examination of the `delete` keyword in JS, checkout [Perfection Kills: Understanding delete](http://perfectionkills.com/understanding-delete/).
 
 References: 
-1. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
+
+1. [MDN: delete operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)

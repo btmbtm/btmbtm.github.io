@@ -1,12 +1,12 @@
 ---
 layout: post
-title: mdworks (#4) | JavaScript <em>delete</em> Keyword [Question]
+title: mdworks (#6) | JavaScript variable scope [Question]
 date: 2016-07-19
 category: mdworks
 tags: []
 ---
 
-**Describe and demonstrate the function of the delete keyword in deleting object properties.**
+**Describe what variable scope is and use examples to demonstrate the differences between local and global scope.**
 
 The `delete` keyword is used to remove properties from objects in JS.  
 

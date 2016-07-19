@@ -73,7 +73,7 @@ console.log(undefined.toString()) // TypeError: Cannot read property 'toString' 
 When dealing with `null` and `undefined` String() and `+ ''` 
 will convert them into a string literal, while .toString() will throw an error. In these cases the use of String() will depend on how you want to handle dealing with `null` and `undefined`.
 
-##Example 3: Prove String() Creates a String literal, not String object.
+## Example 3: Prove String() Creates a String literal, not String object.
 
 Here we will compare `new String()` to `String()`. The main difference is that `new String()` creates a String object and and String literal. This causes some issues when doing tight comparison. See the example below.
 
@@ -142,9 +142,9 @@ As you can see, String() returns meaningful output!
 
 Reference: 
 
-1. [w3schools | JavaScript String() Function](http://www.w3schools.com/jsref/jsref_string.asp)
-2.  [MDN | String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+1. [w3schools: JavaScript String() Function](http://www.w3schools.com/jsref/jsref_string.asp)
+2. [MDN: String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
 Blog Posts:
 
-1. [2ality | Converting a value to string in JavaScrip](http://www.2ality.com/2012/03/converting-to-string.html)
+1. [2ality: Converting a value to string in JavaScrip](http://www.2ality.com/2012/03/converting-to-string.html)

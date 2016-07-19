@@ -32,6 +32,8 @@ console.log(person.loc) // undefined
 
 ```
 
+After deleting the *loc* property, it becomes *undefined*. *Delete* successful! 
+
 For a thorough examination of the `delete` keyword in JS, checkout [Perfection Kills: Understanding delete](http://perfectionkills.com/understanding-delete/).
 
 References: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#3) | JavaScript Global *String()* Function [Encyclopedia Entry]
+title: mdworks (#3) | JavaScript Global <em>String()</em> Function [Encyclopedia Entry]
 date: 2016-07-19
 category: mdworks
 tags: []

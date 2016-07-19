@@ -27,7 +27,7 @@ The basic sytax for accesskey is as so:
 1. On most Windows browsers, `SHIFT` + `ALT` + `[accesskey character]` will do the trick. Some broswers do not require shift, so  `ALT` + `[accesskey character]` is also valid.
 2. On most Mac browsers, `control` + `option` + `[accesskey character]` will do the trick.
 
-Try focusing on the input field below using the J access key to jump to the input field:
+Try focusing on the input field below using the access key combo and J to jump to the input field:
 
 <label> TRY JUMPING HERE &#x2192; </label><input accesskey="j" placeholder="Jump here with J!"/>
 

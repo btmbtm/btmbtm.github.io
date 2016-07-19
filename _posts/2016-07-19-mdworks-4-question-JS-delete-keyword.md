@@ -6,7 +6,7 @@ category: mdworks
 tags: []
 ---
 
-Describe and demonstrate the function of the delete keyword in deleting object properties. 
+**Describe and demonstrate the function of the delete keyword in deleting object properties.**
 
 The `delete` keyword is used to remove properties from objects in JS.  
 

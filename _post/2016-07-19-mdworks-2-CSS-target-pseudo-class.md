@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mdworks (#1) | CSS :target Pseudo-class [Encyclopedia Entry]
+title: mdworks (#2) | CSS :target Pseudo-class [Encyclopedia Entry]
 date: 2016-07-19
 category: mdworks
 tags: []

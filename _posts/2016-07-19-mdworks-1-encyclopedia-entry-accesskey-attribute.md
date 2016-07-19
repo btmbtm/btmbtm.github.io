@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mdworks (#1) | HTML global *accesskey* attribute [Encyclopedia Entry]
-date: 2016-07-15
+date: 2016-07-19
 category: mdworks
 tags: []
 ---

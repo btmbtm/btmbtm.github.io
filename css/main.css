@@ -1,10 +1,9 @@
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 550px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
-
     padding: 0px;
     list-style: none;
     font-weight: bold;

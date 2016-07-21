@@ -25,11 +25,11 @@ HTML:
 JS: 
 
 ```
-var article_title = document.getElementsByClassName("article_title");
-var article = article_title[0].parentElement; //grab the parent of the h1 element
-var content = document.createElement("P");
-content.textContent = "THE YANKEES PLAY DA SOX!";
-article.appendChild(content);
+        var article_title = document.getElementsByClassName("article_title");
+        var article = article_title[0].parentElement; //grab the parent of the h1 element
+        var content = document.createElement("P");
+        content.textContent = "THE YANKEES PLAY DA SOX!";
+        article.appendChild(content);
 ```
 
 OUTPUT:

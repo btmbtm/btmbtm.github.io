@@ -62,4 +62,6 @@ There are a variety of methods to access a DOM node or a group of DOM nodes dire
     </ul>
     ```
 
+    JS:
+    
     `var names = document.querySelectorAll('#names li')`

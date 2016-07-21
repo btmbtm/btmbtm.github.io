@@ -9,29 +9,77 @@ tags: []
 **If you have access to a node object, you can traverse the DOM and access other node objects related to the node object using properties `nextSibling`, `parent`, and many others. Explain how this process works using code samples and illustrations demonstrate how it works.**
 
 
-A DOM node element is not a floating object, but an object with important relationships to other nodes. A node can relate to different nodes in three basic ways: a parent to a node, be a child of a node, or be a sibling of a node.
+A DOM node element is not a floating object, but an object with relationships to other nodes. A node can relate to different nodes in three basic ways: a parent to a node, be a child of a node, or be a sibling of a node. We can take advantage of these relationships when transversing the DOM in our JS code. 
 
-We can take advantage of these relationships when transversing the DOM in our JS code. 
+## Move Up the DOM: Get Node's parent with Node.parentNode property 
 
-up 
-parentNode
-Node.parentNode() 
+For example if we wanted to access the parent node of an object, we can use the Node.parentNode property. Here is a quick example, where we grab the parent of an article_title to add content to the article. 
 
-<article>
-    <h1 class="article_title"></h1>
+HTML:
+```
+<article class="baseball_sports_article">
+    <h1 class="article_title">BIG GAME TODAY</h1>
+</article>
+```
+
+JS: 
+
+```
+var article_title = document.getElementsByClassName("article_title");
+var article = article_title[0].parentElement; //grab the parent of the h1 element
+var content = document.createElement("P");
+content.textContent = "THE YANKEES PLAY DA SOX!";
+article.appendChild(content);
+```
+
+OUTPUT:
+
+<article class="baseball_sports_article">
+    <h1 class="article_title">BIG GAME TODAY</h1>
+  <p> THE YANKEES PLAY DA SOX! </p>
 </article>
 
-var article_title = document.getElementByClassName("article_title");
-var article = article_title.parentNode();
-var content = document.createElement();
+<hr>
 
-down
-firstChild
-lastChild
-childNodes 
+Now you should be able to see how easy it is to access a parent node. 
+
+## Move Down the DOM: Get Node's child with ParentNode.firstChild, ParentNode.lastChild, and ParentNode.children[] properties
+
+Getting a child node is as simple as using one of the three properties: 
+
+1. **ParentNode.firstChild**: the first child of a nodes
+2. **ParentNode.lastChild**: the last child of a nodes
+3. **ParentNode.children**: an HTML collection of the children of a node in order from firstChild to lastChild
+
+
+Let's use the firstChild property to change the title of the article in the last example (note I removed space so the first child is the h1 element instead of a text node): 
+
+HTML:
+```
+<article class="baseball_sports_article"><h1 class="article_title">BIG GAME TODAY</h1></article>
+```
+
+JS: 
+
+```
+var article = document.getElementsByClassName("baseball_sports_article");
+alert(article[0].firstChild);
+article[0].firstChild.innerHTML = "YANKS LOSE!"
+```
+
+OUTPUT:
+
+<article class="baseball_sports_article"><h1 class="article_title">YANKS LOSE!</h1>
+</article>
+
+
+## Move Left/Right on the DOM: Get a Node's Sibling with Node.nextSibling and Node.previousSibling
+
 
 left/right
 previousSibling
 nextSibling
 
 no value -> null
+
+Note that the parent node is live, so any modifcations will affect the HTML document immediately. 

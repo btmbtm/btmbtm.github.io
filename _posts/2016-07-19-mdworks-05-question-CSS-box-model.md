@@ -19,7 +19,7 @@ The CSS box model takes into account the size of an element's content, padding, 
 
 An element's *content* is simply the space an element such as text or a picture takes up. It can also be modified by setting an element's width and height. 
 
-An element's *padding is the space between an object's content and its border. By default padding is 0 but can be changed by setting an element's CSS padding property. An elements top/bottom, left/right padding can be set individually.
+An element's *padding* is the space between an object's content and its border. By default padding is 0 but can be changed by setting an element's CSS padding property. An elements top/bottom, left/right padding can be set individually.
 
 An element's *border* surround and element's content and padding. By default there is no border, but it can be changed by setting an element's CSS border property. An elements top/bottom, left/right border can be set individually.
 

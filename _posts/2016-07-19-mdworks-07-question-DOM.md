@@ -26,6 +26,7 @@ For example, imagine we had a webpage as so:
 
 The basic DOM tree represention would be as so: 
 
+TEXT:
 
 ```
 DOCTYPE: html
@@ -43,9 +44,11 @@ HTML
             #text: Final para
 ```
 
+IMAGE:
+
 ![DOM](https://raw.githubusercontent.com/btmbtm/btmbtm.github.io/master/images/DOM.png)
 
-
+<hr>
 
 While the DOM is language agnostic, Javascript is commonly used with the DOM to access and modify a webpage's HTML elements. A HTML page's elements are usually accessed via the DOM's `document` and `window` objects. The `document` element is the represention of the entire page and contains all other elemetns on the page. In JS via the `document` object we can access, insert, remove and modify elements on the webpage to modify painlessly. Any changes made to DOM are instantaneous, and are immediately rendered on the HTML page. The DOM also defines how nodes can be interacted with (ie HTML events). 
 

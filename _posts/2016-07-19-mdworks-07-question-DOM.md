@@ -27,7 +27,7 @@ For example, imagine we had a webpage as so:
 The basic DOM tree represention would be as so: 
 
 
-
+```
 DOCTYPE: html
 HTML
     HEAD
@@ -41,8 +41,9 @@ HTML
             #text: Mid para
             P
             #text: Final para
+```
 
-![DOM](https://github.com/btmbtm/btmbtm.github.io/blob/master/images/DOM.png)
+![DOM](https://raw.githubusercontent.com/btmbtm/btmbtm.github.io/master/images/DOM.png)
 
 
 

@@ -48,30 +48,69 @@ Now you should be able to see how easy it is to access a parent node.
 
 Getting a child node is as simple as using one of the three properties: 
 
-1. **ParentNode.firstChild**: the first child of a nodes
-2. **ParentNode.lastChild**: the last child of a nodes
-3. **ParentNode.children**: an HTML collection of the children of a node in order from firstChild to lastChild
+1. **ParentNode.firstChild**: the first child node of a ParentNode
+2. **ParentNode.lastChild**: the last child of a ParentNode
+3. **ParentNode.children**: an HTML node collection of the children of a ParentNode in order from firstChild to lastChild
 
 
-Let's use the firstChild property to change the title of the article in the last example (note I removed space so the first child is the h1 element instead of a text node): 
+Let's use the firstChild property to change the title of the article in the last example (we will ignore text nodes): 
 
 HTML:
 
 ```
-<article class="baseball_sports_article"><h1 class="article_title">BIG GAME TODAY</h1></article>
+<article class="baseball_sports_article">
+    <h1 class="article_title">BIG GAME TODAY</h1>
+</article>
 ```
 
 JS: 
 
 ```
 var article = document.getElementsByClassName("baseball_sports_article");
-alert(article[0].firstChild);
 article[0].firstChild.innerHTML = "YANKS LOSE!"
 ```
 
 OUTPUT:
 
 <article class="baseball_sports_article"><h1 class="article_title">YANKS LOSE!</h1>
+</article>
+
+<hr>
+
+Using ParentNode.firstChild it is simple to access a node's child. 
+
+Let's play with ParentNode.children next to show how to access non-first or non-last children. Well use the previous examples, but add some content:
+
+HTML: 
+
+```
+<article class="baseball_sports_article">
+  <h1 class="article_title">BIG GAME TODAY</h1>
+  <p>Yanks play da Sox at 8 pm.</p>
+  <!-- CHANGE THE STATION THE GAME IS ON -->
+  <p>Game is on ESPN.</p> 
+  <p>Big Papi vs Tanaka!</p>
+</article>
+
+```
+
+Now imagine we want to change the the station the game is on. We can access the paragraph node via the article using the children property:
+
+JS: 
+
+```
+var article = document.getElementsByClassName("baseball_sports_article");
+article[0].children[1].textContent = "Game is on FOX!"
+```
+
+OUTPUT:
+
+<article class="baseball_sports_article">
+  <h1 class="article_title">BIG GAME TODAY</h1>
+  <p>Yanks play da Sox at 8 pm.</p>
+  <!-- CHANGE THE STATION THE GAME IS ON -->
+  <p>Game is on FOX.</p> 
+  <p>Big Papi vs Tanaka!</p>
 </article>
 
 

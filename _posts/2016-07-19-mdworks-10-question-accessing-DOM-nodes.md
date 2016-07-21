@@ -54,13 +54,13 @@ There are a variety of methods to access a DOM node or a group of DOM nodes dire
 
     HTML: 
 
-            ```
-            <ul id="names">
-                <li>Bob</li>
-                <li>Jim</li>
-                <li>Kate</li>
-            </ul>
-            ```
+```
+<ul id="names">
+    <li>Bob</li>
+    <li>Jim</li>
+    <li>Kate</li>
+</ul>
+```
 
     JS:
     

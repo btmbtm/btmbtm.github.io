@@ -1,12 +1,12 @@
 ---
 layout: post
-title: mdworks (#12) | DOM Creating Nodes Dynamically [Article]
+title: mdworks (#12) | DOM Creating Nodes Dynamically [Question]
 date: 2016-07-19
 category: mdworks
 tags: []
 ---
 
-** Explain how to dynamically create DOM nodes and demonstrate with examples. **
+**Explain how to dynamically create DOM nodes and demonstrate with examples.**
 
 Creating node's dynamically in JS is possible via the document.createElement(tagName) method. For example, to create a paragraph element (<p> tag), we would simply use the following code: 
 
@@ -39,10 +39,10 @@ If we want to dynamically add 'The Lord of the Rings' to the list we can use the
 
 JS:
 
-    var lOTR = document.createElement('LI');
-    lOTR.textContent = "Lord of the Rings";
-    var books = document.getElementById('books');
-    books.appendChild(lOTR);
+    var lOTR = document.createElement('LI'); //create list item
+    lOTR.textContent = "Lord of the Rings"; // add content to list item
+    var books = document.getElementById('books'); //retrive book list node via ID
+    books.appendChild(lOTR); //add new book to end of list
 
 
 The final results is as so: 

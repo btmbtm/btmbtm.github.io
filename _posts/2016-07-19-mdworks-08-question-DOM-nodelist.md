@@ -12,13 +12,13 @@ A NodeList is a list of DOM node elements. A NodeList has a length property, and
 
 NodeLists are available via the DOM to access a documents elements. There are several common NodeLists that can be acceseed directly via the `document` object: 
 
-    - doument.images[] (NodeList of all img nodes)
-    - document.forms[] (NodeList of all form nodes)
-    - document.forms.elements[] (NodeList of all of a form's elements)
-    - document.links[] (NodeList of all links <a href>)
-    - document.anchors[] (NodeList of all anchors <a name>)
-    - document.embeds[] (NodeList of all embedded elements)
-    - document.scripts[] (NodeList of all scripts)
+- doument.images[] (NodeList of all img nodes)
+- document.forms[] (NodeList of all form nodes)
+- document.forms.elements[] (NodeList of all of a form's elements)
+- document.links[] (NodeList of all links <a href>)
+- document.anchors[] (NodeList of all anchors <a name>)
+- document.embeds[] (NodeList of all embedded elements)
+- document.scripts[] (NodeList of all scripts)
 
 The items are added to the list in the same order they are seen on the page. So the first link on a page will be accessable via document.links[0]. 
 

@@ -10,7 +10,7 @@ tags: []
 
 HTML block elements are placed as rectangles on a page. The CSS Box Model is used to calculate the size of an element rectangle and its position relative to other elements. 
 
-The CSS box model takes into account the size of an element's content, padding, border, and margin when calculating its size. The picture below shows how the parts of the CSS box model relate: 
+The CSS box model takes into account the size of an element's content, padding, border, and margin when calculating size. The picture below shows how the parts of the CSS box model relate: 
 
 ![box model](https://mdn.mozillademos.org/files/8685/boxmodel-(3).png)
 (Image from MDN)
@@ -27,8 +27,9 @@ An element's *margin* is the space that separates an element and its content, pa
 
 By default, an element's size is calculated by summing the size of the element's content, padding, border and margin. This means that setting the width, and height of an element only affects the size of its content. So an element with a width of 300px and a border of 50px, will be 400px wide.
 
-However, if you set an element's CSS box-sizing property to border-box, an element's width and height include the content, padding, border, and margin. When using border-box calculations, the size of the element's content is shrunk to include any added padding, border, or margin. For instance, if an element is 300px wide, by default there is only content and the element's width and content match. If the element's box-sizing element was set to border-box, and we add a 50px margin, the content will shrink to 200px, and the margin will take up 50px on each side.
+However, if you set an element's CSS box-sizing property to border-box, an element's width and height include the content, padding, border and margin. When using border-box calculations, the size of the element's content is shrunk to include any added padding, and border. For instance, if an element is 300px wide, by default there is only content and the element's width and content match. If the element's box-sizing element was set to border-box, and we add 50px padding, the content will shrink to 200px wide, and the padding will take up 50px on each side.
 
+Brian Merriman | Web Developer | 2016
 
 
 

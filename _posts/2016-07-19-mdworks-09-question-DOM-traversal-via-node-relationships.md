@@ -16,6 +16,7 @@ A DOM node element is not a floating object, but an object with relationships to
 For example if we wanted to access the parent node of an object, we can use the Node.parentNode property. Here is a quick example, where we grab the parent of an article_title to add content to the article. 
 
 HTML:
+
 ```
 <article class="baseball_sports_article">
     <h1 class="article_title">BIG GAME TODAY</h1>
@@ -25,11 +26,11 @@ HTML:
 JS: 
 
 ```
-        var article_title = document.getElementsByClassName("article_title");
-        var article = article_title[0].parentElement; //grab the parent of the h1 element
-        var content = document.createElement("P");
-        content.textContent = "THE YANKEES PLAY DA SOX!";
-        article.appendChild(content);
+var article_title = document.getElementsByClassName("article_title");
+var article = article_title[0].parentElement; //grab the parent of the h1 element
+var content = document.createElement("P");
+content.textContent = "THE YANKEES PLAY DA SOX!";
+article.appendChild(content);
 ```
 
 OUTPUT:
@@ -55,6 +56,7 @@ Getting a child node is as simple as using one of the three properties:
 Let's use the firstChild property to change the title of the article in the last example (note I removed space so the first child is the h1 element instead of a text node): 
 
 HTML:
+
 ```
 <article class="baseball_sports_article"><h1 class="article_title">BIG GAME TODAY</h1></article>
 ```

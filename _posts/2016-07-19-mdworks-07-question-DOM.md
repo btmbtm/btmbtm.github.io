@@ -12,6 +12,7 @@ The DOM or Document Object Model is an interface for respresenting, accessing an
 
 For example, imagine we had a webpage as so: 
 
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -23,6 +24,7 @@ For example, imagine we had a webpage as so:
     </article>
 </body>
 </html>
+```
 
 The basic DOM tree represention would be as so: 
 

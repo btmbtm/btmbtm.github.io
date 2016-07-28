@@ -8,7 +8,7 @@ tags: []
 
 **Describe what variable scope is and use examples to demonstrate the differences between local and global scope.**
 
-In JS, a variable can be either local or global in scope. Variables declared with the `var` are only accessible within the *function* they are declared in(this is often confusing to programmers coming from scope defined by block). Global functions are any variable declared in the main body of a script, while a local function is any variable declared within a function(with the `var` keyword). Also note, that any variable declared without the `var` keyword, regardless of where it is declared, is automatically global variable and accessible from anywhere within a script, so be careful! Let's see scope in action with some simpl examples: 
+In JS, a variable can be either local or global in scope. Variables declared with the `var` are only accessible within the *function* they are declared in (this is often confusing to programmers coming from languages where scope is defined by block). Global variables are any variable declared in the main body of a script, while a local function is any variable declared within a function(with the `var` keyword). Also note, that any variable declared without the `var` keyword, regardless of where it is declared, is automatically a global variable and accessible from anywhere within a script, so be careful! Let's see scope in action with some simple examples: 
 
 1. A local variable declared within a function, attempted access outside of the function
 

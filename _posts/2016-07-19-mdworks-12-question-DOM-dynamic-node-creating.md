@@ -50,5 +50,6 @@ The final results is as so:
 <p data-height="265" data-theme-id="0" data-slug-hash="WxrWax" data-default-tab="js,result" data-user="btmbtm" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/btmbtm/pen/WxrWax/">Dynamically Add LI to UL</a> by btmbtm (<a href="http://codepen.io/btmbtm">@btmbtm</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-With this basic workflow, you can create powerful interactive pages. 
+With this basic workflow, you can create powerful interactive pages!
 
+Brian Merriman | Web Developer | 2016

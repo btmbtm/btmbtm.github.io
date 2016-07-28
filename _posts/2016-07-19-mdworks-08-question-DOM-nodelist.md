@@ -8,7 +8,7 @@ tags: []
 
 **Explain what a NodeList is and describe examples of NodeLists that can be accessed directly on the document object (like images, forms, and anchors for example)..**
 
-A NodeList is a list of DOM node elements. A NodeList has a length property, and a single method NodeList.item(index), which returns a node at a given index. The nodes can also be accessed via brack notation. However, while similar, a NodeList is not an array, and cannot be accessed via array functions like an array ( via forEach, map) or use array methods(sort, slice). 
+A NodeList is a list of DOM node elements. A NodeList has a length property, and a single method NodeList.item(index), which returns a node at a given index. The nodes can also be accessed via brack notation (NodeList[index]). However, while similar, a NodeList is not an array, and cannot be accessed via array functions like an array ( via forEach, map) or use array methods(sort, slice). 
 
 NodeLists are available via the DOM to access a documents elements. There are several common NodeLists that can be acceseed directly via the `document` object: 
 
@@ -44,4 +44,4 @@ So the first link, google.com is the first element in the links' NodeList. The 4
 
 Besides document's default NodeLists, NodeLists are also created when using the Node.childNodes(),  document.querySelectorAll() methods. 
 
-
+Brian Merriman | Web Developer | 2016

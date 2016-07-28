@@ -64,3 +64,7 @@ There are a variety of methods to access a DOM node or a group of DOM nodes dire
     JS:
 
     `var names = document.querySelectorAll('#names li')`
+
+These 5 methods allow programmers to easily access an document's Nodes and are powreful for manipulating web pages with JS. 
+
+Brian Merriman | Web Developer | 2016

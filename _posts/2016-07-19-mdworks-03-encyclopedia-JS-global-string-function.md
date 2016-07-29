@@ -126,7 +126,7 @@ var person1 = new Person("Bob", 36);
 console.log(String(person1)); //"Bob, 36"
 ```
 
-As you can see, String() returns meaningful output! 
+As you can see, String() returns meaningful output after creating the toString prototype! 
 
 ## Summary Notes
 

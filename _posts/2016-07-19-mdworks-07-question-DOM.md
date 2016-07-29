@@ -54,3 +54,4 @@ IMAGE:
 
 While the DOM is language agnostic, Javascript is commonly used with the DOM to access and modify a webpage's HTML elements. A HTML page's elements are usually accessed via the DOM's `document`. The `document` element is the represention of the entire page and contains all other elemetns on the page. In JS via the `document` object we can access, insert, remove and modify elements on the webpage to modify painlessly. Any changes made to DOM are instantaneous, and are immediately rendered on the HTML page. The DOM also defines how nodes can be interacted with (ie HTML events). 
 
+Brian Merriman | Web Developer | 2016

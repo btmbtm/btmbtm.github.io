@@ -16,7 +16,7 @@ scores: 170 V 168 Q
   
   You must brute force the top ~500-1000 core GRE vocab words and dominate sentence completion questions. By answering sentence completion questions quickly(30-60 seconds per question), you give yourself extra precious time to dive into reading passages.
 
-  The following are solid vocab lists: 
+  The following are solid vocab tools/lists: 
   
   - Websites/Apps: 
   
@@ -35,7 +35,7 @@ scores: 170 V 168 Q
     - [GRE Vocab Capacity: 2016 Edition](http://amzn.to/2anhVKk)(Filled w/ memory tricks and mnemonics) 
   
   
-  I would recommend picking two resources from the above and mastering all the words. 
+  I would recommend picking two resources from the above and mastering all the words within them. 
 
 ### Good mental/physical health
   

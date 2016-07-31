@@ -10,11 +10,11 @@ date: 2016-07-15
 
 scores: 170 V 168 Q 
 
-## RC Pre-reqs 
+## RC Pre-Reqs 
 
 ### Mastery of GRE vocab
 
-You must brute force the top ~500-1000 core GRE vocab words and dominate sentence completion questions. By answering sentence completion questions quickly(30-60 seconds per question), you give yourself extra precious time to dive into reading passages.
+While practicing for RC, you must also brute force the top ~500-1000 core GRE vocab words and dominate sentence completion questions. By answering sentence completion questions quickly(30-60 seconds per question), you give yourself extra precious time to dive into reading passages.
 
 The following are solid vocab tools/lists: 
   
@@ -34,7 +34,7 @@ The following are solid vocab tools/lists:
   - [Princeton Review's Word Smart for the GRE](http://amzn.to/2aedwtA)
   - [GRE Vocab Capacity: 2016 Edition](http://amzn.to/2anhVKk)(Filled w/ memory tricks and mnemonics) 
 
-I would recommend picking two resources from the above and mastering all the words within them. 
+I would recommend picking two resources from the above and mastering all the words within them. You should be doing vocab work daily. When learning make sure to learn the words in context via sentences, not via vague synonym pairs or generic word groups.
 
 ### Good mental/physical health
   

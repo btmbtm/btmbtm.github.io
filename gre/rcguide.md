@@ -12,7 +12,7 @@ scores: 170 V 168 Q
 
 ## RC Pre-reqs 
 
-- Mastery of GRE vocab
+### Mastery of GRE vocab
   
   You must brute force the top ~500-1000 core GRE vocab words and dominate sentence completion questions. By answering sentence completion questions quickly(30-60 seconds per question), you give yourself extra precious time to dive into reading passages.
 
@@ -37,7 +37,7 @@ scores: 170 V 168 Q
   
   I would recommend picking two resources from the above and mastering all the words. 
 
-- Good mental/physical habits/health
+### Good mental/physical health
   
   You need to have a good sleep hygine and a healthy diet to max out your RC scores. If your mind and body are generally sluggish due to poor sleep and diet, how can you expect to score highly on the GRE? 
 

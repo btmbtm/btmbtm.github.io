@@ -13,29 +13,28 @@ scores: 170 V 168 Q
 ## RC Pre-reqs 
 
 ### Mastery of GRE vocab
-  
-  You must brute force the top ~500-1000 core GRE vocab words and dominate sentence completion questions. By answering sentence completion questions quickly(30-60 seconds per question), you give yourself extra precious time to dive into reading passages.
 
-  The following are solid vocab tools/lists: 
+You must brute force the top ~500-1000 core GRE vocab words and dominate sentence completion questions. By answering sentence completion questions quickly(30-60 seconds per question), you give yourself extra precious time to dive into reading passages.
+
+The following are solid vocab tools/lists: 
   
-  - Websites/Apps: 
+- Websites/Apps: 
   
-    - [Magoosh's GRE Vocab App/Web App](https://gre.magoosh.com/flashcards/vocabulary)
+  - [Magoosh's GRE Vocab App/Web App](https://gre.magoosh.com/flashcards/vocabulary)
     
-  - Physical Flashcards: 
+- Physical Flashcards: 
   
-    - Manhattan GRE Flashcards (should use both sets)
-      - [500 Essential Words: GRE Vocabulary Flash Cards](http://amzn.to/2aed2n1)
-      - [500 Advanced Words: GRE Vocabulary Flash Cards](http://amzn.to/2amYkzJ)
-      
-  - Books
-  
-    - [Barron's Essential Words for the GRE](http://amzn.to/2animnM)
-    - [Princeton Review's Word Smart for the GRE](http://amzn.to/2aedwtA)
-    - [GRE Vocab Capacity: 2016 Edition](http://amzn.to/2anhVKk)(Filled w/ memory tricks and mnemonics) 
-  
-  
-  I would recommend picking two resources from the above and mastering all the words within them. 
+  - Manhattan GRE Flashcards (should use both sets)
+    - [500 Essential Words: GRE Vocabulary Flash Cards](http://amzn.to/2aed2n1)
+    - [500 Advanced Words: GRE Vocabulary Flash Cards](http://amzn.to/2amYkzJ)
+    
+- Books
+
+  - [Barron's Essential Words for the GRE](http://amzn.to/2animnM)
+  - [Princeton Review's Word Smart for the GRE](http://amzn.to/2aedwtA)
+  - [GRE Vocab Capacity: 2016 Edition](http://amzn.to/2anhVKk)(Filled w/ memory tricks and mnemonics) 
+
+I would recommend picking two resources from the above and mastering all the words within them. 
 
 ### Good mental/physical health
   

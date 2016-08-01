@@ -22,7 +22,7 @@ This guide assumes you already know the basics of GRE reading comprehension, hav
 
 - Overlooked Prereqs to Acing RC
 - A Better Reading Process for RC
-- Attacking, Understanding, and Breakingdown Questions and Answer Choices
+- Attacking, Understanding, and Breakingdown RC Questions and Answer Choices
 - How to Practice for GRE RC
 - How to Get Unstuck 
 
@@ -61,11 +61,30 @@ I would recommend picking two resources from the above and mastering all the wor
   
 ### Reading Process
   
-  Simple. 
+  1. Read thoroughly naturally  
+    
+    You should read thru the passage using your normal reading speed. There is no need to learn speed reading nor change how you normally read (changing your reading habits would probably harm your GRE scores). The goal here isn't to memorize details nor recite the passge from memory, but just read through the passage to get a general sense of the passage structure and an idea of where the author stands. 
+
+  2. Reread complex sentences
   
-  1. Read thoroughly
-  2. Breakdown complex sentences/words
+    If you run into a tricky sentence reread once or twice trying to glean as much as possible and than move on with as much understanding as possible. We don't want to get bogged down in the details. Paraphrase a lot. The sentence may not even be relevant to any questions, and if it is we can always reread it. 
+
   3. Summarize/recap via skimming
+    
+    This is the most vital step to acing GRE questions as it gives us a strong overview of the passage before jumping into the questions. I recommend summarizing while skimming instead other techniques like pausing or using a mental image because it is active and doesn't depend on faulty human memory. So how to do this: 
+
+      1. Start from the first paragraph and jump from line to line looking for any key words
+      2. While doing this summarize mentally with your inner voice: 'Paragraph 1 says a, b, c' 
+      3. Don't get caught up on all the details, keep forging ahead
+      
+    After your skim/summary you should be able to answer any main idea questions. 
+  
+
+### Other thoughts 
+
+1. Note taking
+
+  Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper. 
 
 ## Attacking, Understanding, and Breakingdown Questions and Answer Choices
 
@@ -76,17 +95,21 @@ I would recommend picking two resources from the above and mastering all the wor
   3. Go thru answers
     1. Quickly eliminate wrong answers
     2. Jump back into text to find concrete support for right answer
-  
-### The Answers are in the Text: Support Answers with Concrete Evidence
 
 ### Learn to ID Wrong Answer Choices
 
   1. Extreme
+  2. Categorical 
   2. Rotten Detail
-  3. Irrelevant
+  3. True but Irrelevant
   4. Out of scope
+  5. Distortion
+  6. Judgement
+  7. Assumption
   
 ### Tackling Inference Questions 
+
+### Other thoughts on Answering Questions
 
 ## Getting Unstuck!
 

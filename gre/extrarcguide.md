@@ -21,6 +21,7 @@ Online Guides:
 
 - [The Ultimate Guide to Destroy GRE Reading Comprehension](https://crunchprep.com/gre-reading-comprehension-guide)(Solid comprehensive view)
 - [Guide To LSAT Reading Comprehension by graeme_b](https://www.reddit.com/r/LSAT/comments/ud0rw/guide_to_lsat_reading_comprehension/)(Solid comprehensive guide to RC/gives detailed technique for skimming)
+- [https://lsathacks.com/guide/faq/how-to-go-faster-reading-comprehension/](https://lsathacks.com/guide/faq/how-to-go-faster-reading-comprehension/)
 
 Books/Ebooks: 
 
@@ -128,10 +129,54 @@ The basic reading process I recommend only has three steps and is as follows:
     1. Quickly eliminate wrong answers
     2. Jump back into text to find concrete support for right answer
 
-### The answer is in the text
+### Answers are Found in the Text, Not in the Question
+
+  1. Don't try and logic/gut your way to answers
+    
+      You should never be going by memory nor gut feeling to answer a question. You may get lucky, but this approach will lead to a lot of unecessary errors. You should be able to prove any answer choice is wrong or correct via supporting text, not feelings or strange logic chains. Therefore...
+
+  2. Spend most of your time when answering questions in the text
+  
+      Once reading a question you should quickly find the relevant text and go through the answer choices eliminating any wrong answers and finding support for questions you think are correct. You shouldn't be staring at the questions trying to reason your way to the right answer! This leads to the point that...
+
+  2. All correct answers can be defened by text
+    
+      Taking a  few quotes line from graeme_b: 
+            I hate writing explanations for LSAT reading comprehension. It’s the most boring section by far. The answers don’t require thought. They just require line references. “C is wrong because line 32 says….” “Line 47 directly says D”, etc. There’s none of the logical subtleties of LR, or the chains of reasoning from LG. In reading comprehension, you can prove or disprove most answers merely by pointing to a line.
+
+            Reading Comprehension line references answer everything
+            
+            Reading comprehension is by far the dullest section to explain. By far. Have a look at some sample explanations. These answers are from a couple questions in PT 70, passages 2 and 3. (Don’t worry, they won’t spoil anything if you haven’t done the tests).
+            
+            Look at the line references:
+            
+            Question 10
+            
+            A. Lines 19–23 indicate that social scientists largely ignored dance. So the ‘peers’ wouldn’t have had an opinion on whether dance was interpreted correctly or incorrectly.
+            
+            B. Lines 26–27 explain why dance experts didn’t study dance ethnology. It was because they weren’t trained in social science. It had nothing to do with being preoccupied.
+            
+            Question 23
+            
+            B. Lines 33–42 indicate that people would call skydiving voluntary in order to avoid spending money to make it safer.
+            
+            D. CORRECT. Lines 25–27 say this directly.
+            
+            Except for main point questions, most of my reading comprehension explanations read like this. If you find the right line, you can prove or disprove every answer. Most wrong answers use the following simple tricks:
+
+  
+      This is also true on the GRE. Evidence from the text is king. Not logic or cute thinking, but cold, hard concrete evidence. This is also another reason to focus on the text! Keep jumping back and forth between the text, the question, and the answer choice. Luckily the GRE helps us do this by displaying only one question next to the question. So scroll to the relevant section of the text and let your eyes and mind dart back and forth. If you only had to remember one thing from this guide, let it be: THE ANSWERS ARE IN THE TEXT! 
+
 
 ### Learn to ID Wrong Answer Choices
-
+  GG
+  > Except for main point questions, most of my reading comprehension explanations read like this. If you find the right line, you can prove or disprove every answer. Most wrong answers use the following simple tricks:
+      
+  >   They mention something out of context
+  >   They mention something that was never mentioned in the passage, but feels on topic
+  >   They combine two unrelated concepts that appeared in the passage
+  >   If you know what’s going on in the passage, and if you know the right section to check if something was mentioned, you can avoid choosing wrong answers.
+  
   1. Extreme
   2. Categorical 
   2. Rotten Detail
@@ -142,11 +187,6 @@ The basic reading process I recommend only has three steps and is as follows:
   7. Assumption
   
 ### Tackling Inference Questions 
-
-### Other thoughts on Answering Questions
-
-  Spend most of your time in the text
-  > I hate writing explanations for LSAT reading comprehension. It’s the most boring section by far. The answers don’t require thought. They just require line references. “C is wrong because line 32 says….” “Line 47 directly says D”, etc. There’s none of the logical subtleties of LR, or the chains of reasoning from LG. In reading comprehension, you can prove or disprove most answers merely by pointing to a line.
   
 ## Getting Unstuck!
 
@@ -177,36 +217,20 @@ TO DO
   1. https://lawschooli.com/five-things-learned-writing-thousands-lsat-explanations/
 
 ```
-Reading Comprehension line references answer everything
 
-Reading comprehension is by far the dullest section to explain. By far. Have a look at some sample explanations. These answers are from a couple questions in PT 70, passages 2 and 3. (Don’t worry, they won’t spoil anything if you haven’t done the tests).
 
-Look at the line references:
 
-Question 10
-
-A. Lines 19–23 indicate that social scientists largely ignored dance. So the ‘peers’ wouldn’t have had an opinion on whether dance was interpreted correctly or incorrectly.
-
-B. Lines 26–27 explain why dance experts didn’t study dance ethnology. It was because they weren’t trained in social science. It had nothing to do with being preoccupied.
-
-Question 23
-
-B. Lines 33–42 indicate that people would call skydiving voluntary in order to avoid spending money to make it safer.
-
-D. CORRECT. Lines 25–27 say this directly.
-
-Except for main point questions, most of my reading comprehension explanations read like this. If you find the right line, you can prove or disprove every answer. Most wrong answers use the following simple tricks:
-
-They mention something out of context
-They mention something that was never mentioned in the passage, but feels on topic
-They combine two unrelated concepts that appeared in the passage
-If you know what’s going on in the passage, and if you know the right section to check if something was mentioned, you can avoid choosing wrong answers.
-
-Now, I know what you’re thinking. You say that you know the answers are in the passage, but you don’t have time. Ah, time, we never have enough.
-
-Well, the students who score perfect on RC have enough time to check. I’d say they have enough time because they check. It’s so easy to overestimate how much time it takes to look back to the passage, and to underestimate how much time you waste staring blankly at the answers. I do teach people to read faster, but most students who score perfectly on reading comprehension read at an average speed or only slightly faster, and they have exactly as much time as you do!
-
-Most students can learn to refer back to the passage in 1–2 seconds. This isn’t hard. If you do the upfront work of understanding the passage’s meaning and organization, you can know where facts would be mentioned. Once you know where facts are, don’t stare at answers and “think”. Thinking is not how you prove answers. You prove answers by looking back to the passage, saying “ah yes, it says it right here, line 32”, and swiftly choosing the right answer with 100% confidence. You can’t “think” your way to proving an answer. Thinking is not your friend. Only the passage can prove answers.
 
 ```
+
+HIGH GRE RC SCORERS
+- READ A PASSAGE THOROUGHLY WITH *JUST ENOUGH* COMPREHENSION
+- DONT GET BOGGED DOWN IN DETAILS
+- CAN IO THE MAIN ARGUMENT OF A PASSAGE
+- HAVE A GOOD MENTAL FRAMEWORK OF THE PASSAGE
+- CAN QUICKLY FIND RELELVANT INFORMATION IN THE PASSAGE
+- CAN PROVE/ID CORRECT/WRONG CHOICES
+- DON'T MAKE ASSUMPTIONS/GUESSES
+- SPEND MOST OF THE TIME ACTIVELY PERUSING THE TEXT, NOT PASSIVELY THINKING ABOUT QUESTIONS
+
 

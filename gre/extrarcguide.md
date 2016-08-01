@@ -105,6 +105,8 @@ The basic reading process I recommend only has three steps and is as follows:
       
     After your skim/summary you should be able to answer any main idea questions. 
 
+    For a more thorough treatment on skimming passages, checkout graeme_b's [Guide To LSAT Reading Comprehension ](https://www.reddit.com/r/LSAT/comments/ud0rw/guide_to_lsat_reading_comprehension/)
+
 
 ### Other thoughts 
 

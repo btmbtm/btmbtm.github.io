@@ -141,40 +141,25 @@ The basic reading process I recommend only has three steps and is as follows:
 
   2. All correct answers can be defened by text
     
-      Taking a  few quotes line from graeme_b: 
-            I hate writing explanations for LSAT reading comprehension. It’s the most boring section by far. The answers don’t require thought. They just require line references. “C is wrong because line 32 says….” “Line 47 directly says D”, etc. There’s none of the logical subtleties of LR, or the chains of reasoning from LG. In reading comprehension, you can prove or disprove most answers merely by pointing to a line.
+      Taking a few lines from graeme_b: 
+      
+      > I hate writing explanations for LSAT reading comprehension. It’s the most boring section by far. The answers don’t require thought. They just require line references. “C is wrong because line 32 says….” “Line 47 directly says D”, etc. There’s none of the logical subtleties of LR, or the chains of reasoning from LG. In reading comprehension, you can prove or disprove most answers merely by pointing to a line.
 
-            Reading Comprehension line references answer everything
-            
-            Reading comprehension is by far the dullest section to explain. By far. Have a look at some sample explanations. These answers are from a couple questions in PT 70, passages 2 and 3. (Don’t worry, they won’t spoil anything if you haven’t done the tests).
-            
-            Look at the line references:
-            
-            Question 10
-            
-            A. Lines 19–23 indicate that social scientists largely ignored dance. So the ‘peers’ wouldn’t have had an opinion on whether dance was interpreted correctly or incorrectly.
-            
-            B. Lines 26–27 explain why dance experts didn’t study dance ethnology. It was because they weren’t trained in social science. It had nothing to do with being preoccupied.
-            
-            Question 23
-            
-            B. Lines 33–42 indicate that people would call skydiving voluntary in order to avoid spending money to make it safer.
-            
-            D. CORRECT. Lines 25–27 say this directly.
-            
-            Except for main point questions, most of my reading comprehension explanations read like this. If you find the right line, you can prove or disprove every answer. Most wrong answers use the following simple tricks:
-
-  
       This is also true on the GRE. Evidence from the text is king. Not logic or cute thinking, but cold, hard concrete evidence. This is also another reason to focus on the text! Keep jumping back and forth between the text, the question, and the answer choice. Luckily the GRE helps us do this by displaying only one question next to the question. So scroll to the relevant section of the text and let your eyes and mind dart back and forth. If you only had to remember one thing from this guide, let it be: THE ANSWERS ARE IN THE TEXT! 
 
 
 ### Learn to ID Wrong Answer Choices
-  GG
+
+  From graeme_b again: 
+  
   > Except for main point questions, most of my reading comprehension explanations read like this. If you find the right line, you can prove or disprove every answer. Most wrong answers use the following simple tricks:
-      
+  >
   >   They mention something out of context
+  >
   >   They mention something that was never mentioned in the passage, but feels on topic
+  >
   >   They combine two unrelated concepts that appeared in the passage
+  >
   >   If you know what’s going on in the passage, and if you know the right section to check if something was mentioned, you can avoid choosing wrong answers.
   
   1. Extreme

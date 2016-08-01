@@ -83,7 +83,7 @@ After your skim/summary you should be able to answer any main idea questions.
 
 1. Note taking
 
-  Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper. 
+Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper. 
 
 ## Attacking, Understanding, and Breakingdown Questions and Answer Choices
 

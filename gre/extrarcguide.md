@@ -109,7 +109,12 @@ The basic reading process I recommend only has three steps and is as follows:
 
 
 ### Other thoughts 
+1. Reading speed < Comprehension
 
+    I've seen many suggest taking speed reading courses or using an app to improve reading speed. The truth is that reading speed isn't that important, especially at the cost of comprehension. Comprehension is vastly more important than reading speed. Anything that harms your comprehension is costing you points. As long as you can read at the speed of a normal college grad, you should have enough time on the exam to go through each RC passage comfortably. 
+    
+    However, if you read abysmally slow, look into some methods to get you to normal reading speed with high comprehension. 
+  
 1. Note taking
   
     Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper. 

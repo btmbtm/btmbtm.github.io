@@ -39,7 +39,7 @@ This guide assumes you already know the basics of GRE reading comprehension, hav
 
 ### What this Guide Will Cover
 
-- Overlooked Prereqs to Acing RC
+- Overlooked Prereqs for Acing RC
 - A Better Reading Process for RC
 - Attacking, Understanding, and Breakingdown RC Questions and Answer Choices
 - How to Practice for GRE RC
@@ -48,7 +48,7 @@ This guide assumes you already know the basics of GRE reading comprehension, hav
 
 
 
-## Overlooked Prereqs to Acing RC
+## Overlooked Prereqs for Acing RC
 
 ### Mastery of GRE Vocab Gives You More Time for Reading Comp Passages
 

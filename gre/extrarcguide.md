@@ -176,6 +176,16 @@ The basic reading process I recommend only has three steps and is as follows:
   6. Judgement
   7. Assumption
   
+  irrelevant
+    out of scope
+    assumption
+
+  relevant but off
+    assumption
+    extreme
+    dont judge me man
+    nonsense 
+
 ### Tackling Inference Questions 
   
 ## Getting Unstuck!

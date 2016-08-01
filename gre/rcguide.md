@@ -11,7 +11,7 @@ date: 2016-07-15
 
 ### Your Background 
 
-This guide assumes you already know the basics of GRE reading comprehension and have read a basic guide to GRE RC and understand the general structure of a GRE RC passage and basic question types. 
+This guide assumes you already know the basics of GRE reading comprehension, have read a basic guide on the GRE verbal section, and understand the general structure of a GRE RC passage and basic question types. 
 
 ### My Background 
 
@@ -21,12 +21,12 @@ This guide assumes you already know the basics of GRE reading comprehension and 
 ### What this Guide Will Cover
 
 - Overlooked Prereqs to Acing RC
-- A Better RC Reading Process
-- Attacking and Understanding Questions
-- How to Practice for RC
+- A Better Reading Process for RC
+- Attacking, Understanding, and Breakingdown Questions and Answer Choices
+- How to Practice for GRE RC
 - How to Get Unstuck 
 
-## RC Pre-Reqs 
+## Overlooked Prereqs to Acing RC
 
 ### Mastery of GRE vocab
 
@@ -52,13 +52,8 @@ The following are solid vocab tools/lists:
 
 I would recommend picking two resources from the above and mastering all the words within them. You should be doing vocab work daily in conjuction to your other GRE studying. When learning make sure to learn the words in context via sentences, not via vague synonym pairs or generic word groups.
 
-### General Mmental/Physical health
-  
-  You need to have a good sleep hygine and a healthy diet to max out your RC and overall GRE scores. If your mind and body are generally sluggish due to poor sleep and diet, how can you expect to score highly? 
 
-  You also have to go into the test with a positive frame of mind and detach yourself from the outcome of the test. Panicking/anxiety will just lower your scores.
-  
-## Mastering Reading Comprehension 
+## A Better Reading Process for RC
 
 ### Frame of Mind
 
@@ -72,9 +67,9 @@ I would recommend picking two resources from the above and mastering all the wor
   2. Breakdown complex sentences/words
   3. Summarize/recap via skimming
 
-### Attacking Questions
+## Attacking, Understanding, and Breakingdown Questions and Answer Choices
 
-#### Process 
+### Process Overview
 
   1. Read questions
   2. Find relevant section and reread details quickly
@@ -82,25 +77,25 @@ I would recommend picking two resources from the above and mastering all the wor
     1. Quickly eliminate wrong answers
     2. Jump back into text to find concrete support for right answer
   
-#### The Answers are in the Text: Support Answers with Concrete Evidence
+### The Answers are in the Text: Support Answers with Concrete Evidence
 
-#### Learn to ID Wrong Answer Choices
+### Learn to ID Wrong Answer Choices
 
   1. Extreme
   2. Rotten Detail
   3. Irrelevant
   4. Out of scope
   
-#### Tackling Inference Questions 
+### Tackling Inference Questions 
 
-### Getting Unstuck!
+## Getting Unstuck!
 
 1. Reread!
 2. Skip and comeback
 3. Deep Reset
 
 
-### How to Practice 
+## How to Practice 
 
 
   

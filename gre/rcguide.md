@@ -1,14 +1,30 @@
 ---
 layout: default
-title: gre RC guide for kids who can't read good
+title: btmbtm's Extra RC Tips
 date: 2016-07-15
 ---
 
-# btmbtm's gre RC guide
+# btmbtm's Extra GRE RC Tips
 
-## my background 
 
-scores: 170 V 168 Q 
+## Intro 
+
+### Your Background 
+
+This guide assumes you already know the basics of GRE reading comprehension and have read a basic guide to GRE RC and understand the general structure of a GRE RC passage and basic question types. 
+
+### My Background 
+
+- Major: something STEM
+- Scores: 170 V 168 Q 
+
+### What this Guide Will Cover
+
+- Overlooked Prereqs to Acing RC
+- A Better RC Reading Process
+- Attacking and Understanding Questions
+- How to Practice for RC
+- How to Get Unstuck 
 
 ## RC Pre-Reqs 
 

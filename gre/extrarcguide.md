@@ -50,7 +50,7 @@ This guide assumes you already know the basics of GRE reading comprehension, hav
 
 ## Overlooked Prereqs to Acing RC
 
-### Mastery of GRE vocab
+### Mastery of GRE Vocab Gives You More Time for Reading Comp Passages
 
 While practicing for RC, you must also brute force the top ~500-1000 core GRE vocab words so you can dominate text completion and sentence equivalence questions. By answering TC and SE questions quickly(30-60 seconds per question), you give yourself precious extra time to conquer harder reading passages that usually take up a solid chunk of a verbal section's time.
 

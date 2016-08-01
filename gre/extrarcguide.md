@@ -1,10 +1,10 @@
 ---
 layout: default
-title: btmbtm's Extra RC Tips
+title: btmbtm's Extra RC Guide
 date: 2016-07-15
 ---
 
-# btmbtm's Extra GRE RC Tips
+# btmbtm's Extra GRE RC Guide
 
 
 ## Intro 

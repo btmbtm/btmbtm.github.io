@@ -111,7 +111,8 @@ The basic reading process I recommend only has three steps and is as follows:
 ### Focus when Reading
 
   1. Focus on main ID
-  2. Focus on 
+  2. Focus on where things are
+  3. Focus on the WHY IS THIS HERE for weird stuff
 
 ### Other thoughts 
 

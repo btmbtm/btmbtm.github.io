@@ -22,7 +22,7 @@ Online Guides:
 - [The Ultimate Guide to Destroy GRE Reading Comprehension](https://crunchprep.com/gre-reading-comprehension-guide)(Solid comprehensive view)
 - [Guide To LSAT Reading Comprehension by graeme_b](https://www.reddit.com/r/LSAT/comments/ud0rw/guide_to_lsat_reading_comprehension/)(Solid comprehensive guide to RC/gives detailed technique for skimming)
 
-GRE RC Guides Books: 
+Books/Ebooks: 
 
 - [Manhattan GRE's Reading Comprehension & Essays Book](http://amzn.to/2asoLz3)(good general overview and strategy)
 - [LSAT Reading Comprehension - The Ultimate Improvement Guide](http://amzn.to/2aFIzCg)(a short RC guide, offers some good pointers on breaking down complex sentences)

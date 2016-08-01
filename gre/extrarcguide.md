@@ -108,6 +108,10 @@ The basic reading process I recommend only has three steps and is as follows:
 
     For a more thorough treatment on skimming passages, checkout graeme_b's [Guide To LSAT Reading Comprehension ](https://www.reddit.com/r/LSAT/comments/ud0rw/guide_to_lsat_reading_comprehension/)
 
+### Focus when Reading
+
+  1. Focus on main ID
+  2. Focus on 
 
 ### Other thoughts 
 
@@ -218,4 +222,14 @@ HIGH GRE RC SCORERS
 - DON'T MAKE ASSUMPTIONS/GUESSES
 - SPEND MOST OF THE TIME ACTIVELY PERUSING THE TEXT, NOT PASSIVELY THINKING ABOUT QUESTIONS
 
+RC COURSE 
+1. MASTER READING 
+  - memory method
+  - 
+2. MASTERING QUESTIONS
+  - quickly find relevant info quick
+3. TACKLING RC 
+2. 
+2. 
 
+LSAT Course Day 4: Reading Comprehension

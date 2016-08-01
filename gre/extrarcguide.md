@@ -72,7 +72,7 @@ The following are solid vocab tools/lists that will help you conquer the requisi
   - [Princeton Review's Word Smart for the GRE](http://amzn.to/2aedwtA)
   - [GRE Vocab Capacity: 2016 Edition](http://amzn.to/2anhVKk)(Filled w/ memory tricks and mnemonics) 
 
-I would recommend picking two resources from the above and mastering all the words within them. You should be doing vocab work daily in conjuction to your other GRE studying. When learning make sure to learn the words in context via sentences, not via vague synonym pairs or generic word groups.
+I would recommend picking two resources from the above and mastering all the words within them. You should be doing vocab work daily in conjuction to your other GRE studying. When learning make sure to learn the words in context via sentences to master usage, not via vague synonym pairs or generic word groups.
 
 
 ## A Better Reading Process for RC

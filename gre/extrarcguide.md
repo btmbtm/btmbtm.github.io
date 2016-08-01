@@ -1,7 +1,7 @@
 ---
 layout: default
 title: btmbtm's Extra RC Guide
-date: 2016-07-15
+date: 2016-07-31
 ---
 
 # btmbtm's Extra GRE Reading Comp Guide

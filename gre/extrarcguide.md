@@ -4,7 +4,7 @@ title: btmbtm's Extra RC Guide
 date: 2016-07-15
 ---
 
-# btmbtm's Extra GRE RC Guide
+# btmbtm's Extra GRE Reading Comp Guide
 
 
 ## Intro 

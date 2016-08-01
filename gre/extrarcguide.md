@@ -60,9 +60,11 @@ I would recommend picking two resources from the above and mastering all the wor
   Sympathy with the author.
   
 ### Reading Process
-1. Read thoroughly using your natural reading techniques
+1. Read thoroughly using your natural reading techniques to get the gist of a passage
 
-    You should read thru the passage using your normal reading speed/methods. There is no need to learn speed reading nor change how you normally read (changing your reading habits would probably harm your GRE scores). The goal here isn't to memorize details nor recite the passge from memory, but just read through the passage to get a general sense of the passage structure and an idea of where the author stands. 
+    You should read thru the passage using your normal reading speed/methods. There is no need to learn speed reading nor change how you normally read (changing your reading habits would probably harm your GRE scores). 
+    
+    Also, remember the goal of reading a passage  isn't to memorize details nor recite the passge from memory, but just read through the passage to get a general sense of the passage structure and an idea of where the author stands. 
 
 2. Reread complex sentences
 

@@ -186,6 +186,7 @@ The basic reading process I recommend only has three steps and is as follows:
 
 ## How to Practice
 
+- KEEP ERROR LOG FOR EVERYTHING
 - Blind practice
 - Blind questions (answer q's w/o looking at passage)
 - Prove/Disprove Answer Choices (prove right answer and disprove wrong answers w/ category)

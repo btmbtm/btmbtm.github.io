@@ -60,6 +60,9 @@ I would recommend picking two resources from the above and mastering all the wor
   Sympathy with the author.
   
 ### Reading Process
+
+The basic reading process I recommend only has three steps and is as follows: 
+
 1. Read thoroughly using your natural reading techniques to get the gist of a passage
 
     You should read thru the passage using your normal reading speed/methods. There is no need to learn speed reading nor change how you normally read (changing your reading habits would probably harm your GRE scores). 
@@ -85,7 +88,7 @@ I would recommend picking two resources from the above and mastering all the wor
 
 1. Note taking
   
-  Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper. 
+    Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper. 
 
 ## Attacking, Understanding, and Breakingdown Questions and Answer Choices
 

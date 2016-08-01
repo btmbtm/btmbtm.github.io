@@ -11,7 +11,7 @@ date: 2016-07-15
 
 ### General Purpose
 
-This guide is just a collection of important notes that helped me demistify the GRE reading comprehension questions. It is not the holy grail of GRE reading guides nor does it have any EARTH SHATTERING RC SECRETS. I recommend using this guide in conjunction with other GRE guides to build your own GRE RC strategy.  Even See below for some suggestions(note that some guides pertain to other exams, but are still relevant for GRE RC):
+This guide is just a collection of important notes that helped me demistify the GRE reading comprehension questions. It is not the holy grail of GRE reading guides nor does it have any EARTH SHATTERING RC SECRETS. I recommend using this guide in conjunction with other GRE guides to build your own GRE RC strategy. See below for some suggestions(note that some guides pertain to other exams, but are still relevant for GRE RC):
 
 MUST BUY OFFICIAL PRACTICE MATERIAL
 - [Official GRE Verbal Reasoning Practice Questions](http://amzn.to/2aoCQjt) (This book gives the most GRE like questions as it was created by ETS! It is also the best way to get a feel of the real test.)
@@ -23,7 +23,6 @@ Online Guides:
 GRE RC Guides Books: 
 - [Manhattan GRE's Reading Comprehension & Essays Book](http://amzn.to/2asoLz3)
 - [LSAT Reading Comprehension - The Ultimate Improvement Guide](http://amzn.to/2aFIzCg)
-
 
 ### Your Background 
 

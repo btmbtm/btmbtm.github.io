@@ -11,7 +11,7 @@ date: 2016-07-31
 
 ### Pre
 
-This guide is just a collection of notes I wrote and compiled that helped me demistify GRE reading comprehension. It is not the holy grail of GRE reading guides (no guide is) nor does it have any EARTH SHATTERING RC SECRETS, but it does offer some interesting thoughts on and good strategies for GRE RC. I recommend using this guide in conjunction with other GRE guides to play with tactics and build your own GRE RC strategy. See below for some suggestions(note that some guides pertain to other exams, but are still relevant for GRE RC):
+This guide is just a collection of quotes and notes I wrote and compiled that helped me demistify GRE reading comprehension. It is not the holy grail of GRE reading guides (no guide is) nor does it have any EARTH SHATTERING RC SECRETS, but it does offer some interesting thoughts on and good strategies for GRE RC. I recommend using this guide in conjunction with other GRE guides to play with tactics and build your own GRE RC strategy. See below for some suggestions(note that some guides pertain to other exams, but are still relevant for GRE RC):
 
 MUST BUY OFFICIAL PRACTICE MATERIAL:
 

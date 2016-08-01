@@ -52,7 +52,7 @@ This guide assumes you already know the basics of GRE reading comprehension, hav
 
 ### Mastery of GRE Vocab Gives You More Time for Reading Comp Passages
 
-While practicing for RC, you must also brute force the top ~500-1000 core GRE vocab words so you can dominate text completion and sentence equivalence questions. By answering TC and SE questions quickly(30-60 seconds per question), you give yourself precious extra time to conquer harder reading passages that usually take up a solid chunk of a verbal section's time.
+While practicing for GRE, you must also brute force the top ~500-1000 core GRE vocab words in order to dominate text completion and sentence equivalence questions. By answering TC and SE questions quickly(30-60 seconds per question), you give yourself precious extra time to conquer harder reading passages that usually take up a solid chunk of a verbal section's time.
 
 The following are solid vocab tools/lists that will help you conquer the requisite vocab: 
   
@@ -72,7 +72,7 @@ The following are solid vocab tools/lists that will help you conquer the requisi
   - [Princeton Review's Word Smart for the GRE](http://amzn.to/2aedwtA)
   - [GRE Vocab Capacity: 2016 Edition](http://amzn.to/2anhVKk)(Filled w/ memory tricks and mnemonics) 
 
-I would recommend picking two resources that match your learning style from the above and mastering all the words within them. You should be doing vocab work daily in conjuction to your other GRE studying. When learning make sure to learn the words in context via sentences to master usage, not via vague synonym pairs or generic word groups.
+I would recommend picking two resources that match your learning style from the above and mastering all the words within them. When learning make sure to learn the words in context via sentences to master usage, not via vague synonym pairs or generic word groups.  You should be doing this vocab work daily in conjuction to your other GRE studying.
 
 
 ## A Better Reading Process for RC
@@ -97,7 +97,7 @@ The basic reading process I recommend only has three steps and is as follows:
 
 3. Summarize/recap via skimming
 
-    This is the most vital step to acing GRE questions as it gives us a strong overview of the passage before jumping into the questions. I recommend summarizing while skimming instead other techniques like pausing and mentally summarizing or other techniques which are passive and reliant on faulty human memory. Skimming + summarizing is because it is active and is based on the actual text, not memeory. So how to do this: 
+    Summarize/recap via skimming after reading the text is the most vital step to acing GRE questions as it gives us a strong mental framework of the passage before jumping into the questions. I recommend summarizing while skimming instead other techniques like pausing and mentally summarizing, or other techniques that are passive and reliant on faulty human memory. Skimming + summarizing is best because it is active so you can stay engaged and because it builds a summary on the actual text, not memeory. The actual process is as follows: 
 
     1. Start from the first paragraph and jump from line to line looking for any key words
     2. While doing this summarize mentally with your inner voice: 'Paragraph 1 says a, b, c' 
@@ -127,6 +127,8 @@ The basic reading process I recommend only has three steps and is as follows:
   3. Go thru answers
     1. Quickly eliminate wrong answers
     2. Jump back into text to find concrete support for right answer
+
+### The answer is in the text
 
 ### Learn to ID Wrong Answer Choices
 

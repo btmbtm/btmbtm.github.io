@@ -145,6 +145,7 @@ The basic reading process I recommend only has three steps and is as follows:
 
   Spend most of your time in the text
   > I hate writing explanations for LSAT reading comprehension. It’s the most boring section by far. The answers don’t require thought. They just require line references. “C is wrong because line 32 says….” “Line 47 directly says D”, etc. There’s none of the logical subtleties of LR, or the chains of reasoning from LG. In reading comprehension, you can prove or disprove most answers merely by pointing to a line.
+  
 ## Getting Unstuck!
 
 1. Reread!
@@ -169,10 +170,9 @@ TO DO
 - Finish unstuck section
 - Describe wrong answer choices
 - Note/research practice methods
-
 - Links + Quotes
 
-1. https://lawschooli.com/five-things-learned-writing-thousands-lsat-explanations/
+  1. https://lawschooli.com/five-things-learned-writing-thousands-lsat-explanations/
 
 ```
 Reading Comprehension line references answer everything
@@ -208,4 +208,3 @@ Most students can learn to refer back to the passage in 1–2 seconds. This isn�
 
 ```
 
-2. 

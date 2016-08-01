@@ -111,7 +111,7 @@ The basic reading process I recommend only has three steps and is as follows:
 ### Other thoughts 
 1. Reading speed < Comprehension
 
-    I've seen many suggest taking speed reading courses or using an app to improve reading speed. The truth is that reading speed isn't that important, especially at the cost of comprehension. Comprehension is vastly more important than reading speed. Anything that harms your comprehension is costing you points. As long as you can read at the speed of a normal college grad, you should have enough time on the exam to go through each RC passage comfortably. 
+    I've seen many suggest taking speed reading courses or using an app to improve reading speed. The truth is that reading speed isn't that important, especially at the cost of comprehension as comprehension is king on standardized tests. Anything that harms your comprehension is costing you points. As long as you can read at the speed of a normal college grad, you should have enough time on the exam to go through each RC passage comfortably. 
     
     However, if you read abysmally slow, look into some methods to get you to normal reading speed with high comprehension. 
   

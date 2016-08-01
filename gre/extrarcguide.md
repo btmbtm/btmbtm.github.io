@@ -33,8 +33,9 @@ This guide assumes you already know the basics of GRE reading comprehension, hav
 
 ### My Background 
 
-- Major: something STEM
+- Major: something STEMy
 - Scores: 170 V 168 Q 
+- Native English speaker
 
 ### What this Guide Will Cover
 

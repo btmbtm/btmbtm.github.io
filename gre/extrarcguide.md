@@ -97,7 +97,7 @@ The basic reading process I recommend only has three steps and is as follows:
 
 3. Summarize/recap via skimming
 
-    This is the most vital step to acing GRE questions as it gives us a strong overview of the passage before jumping into the questions. I recommend summarizing while skimming instead other techniques like pausing or using a mental image because it is active and doesn't depend on faulty human memory. So how to do this: 
+    This is the most vital step to acing GRE questions as it gives us a strong overview of the passage before jumping into the questions. I recommend summarizing while skimming instead other techniques like pausing and mentally summarizing or other techniques which are passive and reliant on faulty human memory. Skimming + summarizing is because it is active and is based on the actual text, not memeory. So how to do this: 
 
     1. Start from the first paragraph and jump from line to line looking for any key words
     2. While doing this summarize mentally with your inner voice: 'Paragraph 1 says a, b, c' 

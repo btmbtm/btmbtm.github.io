@@ -60,16 +60,14 @@ I would recommend picking two resources from the above and mastering all the wor
   Sympathy with the author.
   
 ### Reading Process
-1. Read thoroughly naturally  
-You should read thru the passage using your normal reading speed. There is no need to learn speed reading nor change how you normally read (changing your reading habits would probably harm your GRE scores). The goal here isn't to memorize details nor recite the passge from memory, but just read through the passage to get a general sense of the passage structure and an idea of where the author stands. 
+1. Read thoroughly using your natural reading techniques
+  You should read thru the passage using your normal reading speed/methods. There is no need to learn speed reading nor change how you normally read (changing your reading habits would probably harm your GRE scores). The goal here isn't to memorize details nor recite the passge from memory, but just read through the passage to get a general sense of the passage structure and an idea of where the author stands. 
 
 2. Reread complex sentences
-
-If you run into a tricky sentence reread once or twice trying to glean as much as possible and than move on with as much understanding as possible. We don't want to get bogged down in the details. Paraphrase a lot. The sentence may not even be relevant to any questions, and if it is we can always reread it. 
+  If you run into a tricky sentence reread once or twice trying to glean as much as possible and than move on with as much understanding as possible. We don't want to get bogged down in the details. Paraphrase a lot. The sentence may not even be relevant to any questions, and if it is we can always reread it. 
 
 3. Summarize/recap via skimming
-  
-This is the most vital step to acing GRE questions as it gives us a strong overview of the passage before jumping into the questions. I recommend summarizing while skimming instead other techniques like pausing or using a mental image because it is active and doesn't depend on faulty human memory. So how to do this: 
+  This is the most vital step to acing GRE questions as it gives us a strong overview of the passage before jumping into the questions. I recommend summarizing while skimming instead other techniques like pausing or using a mental image because it is active and doesn't depend on faulty human memory. So how to do this: 
 
   1. Start from the first paragraph and jump from line to line looking for any key words
   2. While doing this summarize mentally with your inner voice: 'Paragraph 1 says a, b, c' 
@@ -81,8 +79,7 @@ After your skim/summary you should be able to answer any main idea questions.
 ### Other thoughts 
 
 1. Note taking
-
-Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper. 
+  Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper. 
 
 ## Attacking, Understanding, and Breakingdown Questions and Answer Choices
 

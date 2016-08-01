@@ -25,14 +25,15 @@ This guide assumes you already know the basics of GRE reading comprehension, hav
 - Attacking, Understanding, and Breakingdown RC Questions and Answer Choices
 - How to Practice for GRE RC
 - How to Get Unstuck 
+- Other GRE Guides
 
 ## Overlooked Prereqs to Acing RC
 
 ### Mastery of GRE vocab
 
-While practicing for RC, you must also brute force the top ~500-1000 core GRE vocab words and dominate sentence completion questions. By answering sentence completion questions quickly(30-60 seconds per question), you give yourself precious extra time to conquer harder reading passages that usually take up a solid chunk of a verbal section's time.
+While practicing for RC, you must also brute force the top ~500-1000 core GRE vocab words so you can dominate text completion and sentence equivalence questions. By answering TC and SE questions quickly(30-60 seconds per question), you give yourself precious extra time to conquer harder reading passages that usually take up a solid chunk of a verbal section's time.
 
-The following are solid vocab tools/lists: 
+The following are solid vocab tools/lists that will help you conquer the requisite vocab: 
   
 - Websites/Apps: 
   

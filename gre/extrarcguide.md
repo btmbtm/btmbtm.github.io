@@ -15,17 +15,17 @@ This guide is just a collection of notes I compiled that helped me demistify GRE
 
 MUST BUY OFFICIAL PRACTICE MATERIAL:
 
-- [Official GRE Verbal Reasoning Practice Questions](http://amzn.to/2aoCQjt) (This book gives the most GRE like questions as it was created by ETS! It is also the best way to get a feel of the real test.)
+- [Official GRE Verbal Reasoning Practice Questions](http://amzn.to/2aoCQjt) (gives most GRE like questions as it was created by ETS/great way to get a feel of REAL GRE passage)
 
 Online Guides: 
 
-- [The Ultimate Guide to Destroy GRE Reading Comprehension](https://crunchprep.com/gre-reading-comprehension-guide)
-- [Guide To LSAT Reading Comprehension by graeme_b](https://www.reddit.com/r/LSAT/comments/ud0rw/guide_to_lsat_reading_comprehension/)
+- [The Ultimate Guide to Destroy GRE Reading Comprehension](https://crunchprep.com/gre-reading-comprehension-guide)(Solid comprehensive view)
+- [Guide To LSAT Reading Comprehension by graeme_b](https://www.reddit.com/r/LSAT/comments/ud0rw/guide_to_lsat_reading_comprehension/)(Solid comprehensive guide to RC/gives detailed technique for skimming)
 
 GRE RC Guides Books: 
 
-- [Manhattan GRE's Reading Comprehension & Essays Book](http://amzn.to/2asoLz3)
-- [LSAT Reading Comprehension - The Ultimate Improvement Guide](http://amzn.to/2aFIzCg)
+- [Manhattan GRE's Reading Comprehension & Essays Book](http://amzn.to/2asoLz3)(good general overview and strategy)
+- [LSAT Reading Comprehension - The Ultimate Improvement Guide](http://amzn.to/2aFIzCg)(a short RC guide, offers some good pointers on breaking down complex sentences)
 
 ### Your Background 
 

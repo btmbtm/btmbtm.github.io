@@ -80,7 +80,7 @@ I would recommend picking two resources that match your learning style from the 
 
 ### Frame of Mind
 
-  Sympathy with the author.
+  A lot of prep companies recommended feigning excitement in order to engage with the passage. Pretending to be excited about something has never worked for me, so I developed a frame that I call *sympathy with the author*. Take the author at his word and accept his conclusion. Follow along and applaud the nuances in his or her arguments. Be sympathetic to his/her his point of views and choice of evidence etc etc This sort of frame made me engage with the passages much more than trying to be excited about them, which is especially hard after 4 other GRE sections
   
 ### Reading Process
 
@@ -90,7 +90,8 @@ The basic reading process I recommend only has three steps and is as follows:
 
     You should read thru the passage using your normal reading speed/methods. There is no need to learn speed reading nor change how you normally read (changing your reading habits would probably harm your GRE scores). 
     
-    Also, remember the goal of reading a passage  isn't to memorize details nor recite the passge from memory, but just read through the passage to get a general sense of the passage structure and an idea of where the author stands. 
+    Also, remember the goal of reading a passage  isn't to memorize details nor recite the passge from memory, but just read through the passage to get a general sense of the passage structure and an idea of where the author stands. Our goal is *just enough* comprehension, not 100% comprehension.
+  
 
 2. Reread complex sentences
 
@@ -108,12 +109,6 @@ The basic reading process I recommend only has three steps and is as follows:
 
     For a more thorough treatment on skimming passages, checkout graeme_b's [Guide To LSAT Reading Comprehension ](https://www.reddit.com/r/LSAT/comments/ud0rw/guide_to_lsat_reading_comprehension/)
 
-### Focus when Reading
-
-  1. Focus on main ID
-  2. Focus on where things are
-  3. Focus on the WHY IS THIS HERE for weird stuff
-
 ### Other thoughts 
 
 1. Reading speed < Comprehension
@@ -123,7 +118,15 @@ The basic reading process I recommend only has three steps and is as follows:
 1. Note taking
   
     Since the GRE is a computer test in the USA, I'd recommend against note taking as you can't directly markup the passage. When taking notes you take your eye off the passage and computer screen which is potentially dangerous as this sort of context switching from notebook to computer screen is taxing on the memory and kills concentration. The only time I'd suggest note taking is if your mind wanders easily and note taking would keep you focused. Even in that case I would recommend taking notes without looking down at your paper and not refer to them when doing questions.
+    
+3. Read normally, avoid active reading
 
+  Active reading is this weird pseudo concept like *critical thinking* that people nebulously define in 30 different ways and blame student failures on. Bro, if you just read actively, you'd get a 170 brah. You just gotta like pay attention, or something and bam, perfect score. Bro you got all da RC questions wrong cause you didnt ACTIVELY READ and THINK CRITICALLY. 
+    
+  Students who take the active reading thing to heart end up trying to juggle all the details of the passage, the arguments, and relationships within the passage in their head and end up remembering nothing and feeling stupid cause they can't ACTIVELY READ. 
+  
+  Stick with your normal reading methods. Dey got your thru 16+ years of edumacation. 
+  
 ## Attacking, Understanding, and Breakingdown Questions and Answer Choices
 
 ### Process Overview
@@ -167,6 +170,8 @@ The basic reading process I recommend only has three steps and is as follows:
   >
   >   If you know what’s going on in the passage, and if you know the right section to check if something was mentioned, you can avoid choosing wrong answers.
   
+  IDing wrong answer choices quickly is vital to scoring high. 
+  
   1. Extreme
   2. Categorical 
   2. Rotten Detail
@@ -193,7 +198,7 @@ The basic reading process I recommend only has three steps and is as follows:
 1. Reread!
 2. Skip and comeback
 3. Deep Reset
-
+  
 ## How to Practice
 
 - KEEP ERROR LOG FOR EVERYTHING
@@ -217,14 +222,8 @@ TO DO
 
   1. https://lawschooli.com/five-things-learned-writing-thousands-lsat-explanations/
 
-```
-
-
-
-
-```
-
 HIGH GRE RC SCORERS
+
 - READ A PASSAGE THOROUGHLY WITH *JUST ENOUGH* COMPREHENSION
 - DONT GET BOGGED DOWN IN DETAILS
 - CAN IO THE MAIN ARGUMENT OF A PASSAGE
@@ -235,11 +234,13 @@ HIGH GRE RC SCORERS
 - SPEND MOST OF THE TIME ACTIVELY PERUSING THE TEXT, NOT PASSIVELY THINKING ABOUT QUESTIONS
 
 RC COURSE 
+
 1. MASTER READING 
   - memory method
   - 
 2. MASTERING QUESTIONS
   - quickly find relevant info quick
+  
 3. TACKLING RC 
 2. 
 2. 

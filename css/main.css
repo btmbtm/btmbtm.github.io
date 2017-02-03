@@ -47,6 +47,9 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+* {
+  box-sizing: border-box; }
+
 body {
   background-color: snow;
   font-family: 'Noto Sans', sans-serif;
@@ -59,7 +62,9 @@ body {
       font-size: 18px; } }
 
 code {
+  width: 100%;
   padding: 3px;
+  margin: 3px;
   background-color: lightgray;
   font-family: 'Space Mono', monospace; }
 

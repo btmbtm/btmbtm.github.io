@@ -80,4 +80,13 @@ h6 {
 .homepage__title {
   margin: 15px 0; }
 
+.post {
+  line-height: 1.5; }
+
+.post > p:first-child:first-letter {
+  font-size: 1.5em; }
+
+.post__header {
+  margin: 10px 0; }
+
 /*# sourceMappingURL=main.css.map */

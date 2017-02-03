@@ -59,13 +59,8 @@ body {
       font-size: 18px; } }
 
 code {
-  display: block;
-  width: 100%;
-  padding: 8px;
-  margin: 7px 2px;
   background-color: lightgray;
-  font-family: 'Space Mono', monospace;
-  line-break: loose; }
+  font-family: 'Space Mono', monospace; }
 
 h1 {
   font-size: 2em; }
@@ -119,7 +114,7 @@ header {
 .post__header {
   border-bottom: 2px dashed black;
   margin: 20px 0;
-  padding: 4px 0; }
+  padding-botto: 8px; }
 
 .post__title {
   margin: 5px 0; }
@@ -127,8 +122,14 @@ header {
 .post__footer {
   margin: 10px 0; }
 
-ul, ol {
+.post ul, .post ol {
   margin: inherit 3px inherit; }
+
+.post .highlighter-rouge {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 7px 2px; }
 
 section {
   margin: 15px 0; }

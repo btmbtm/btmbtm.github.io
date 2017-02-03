@@ -129,7 +129,8 @@ header {
   display: block;
   width: 100%;
   padding: 8px;
-  margin: 7px 2px; }
+  margin: 7px 2px;
+  background-color: lightgray; }
 
 section {
   margin: 15px 0; }

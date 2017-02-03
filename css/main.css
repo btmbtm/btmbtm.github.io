@@ -117,6 +117,7 @@ header {
   font-size: 1.5em; }
 
 .post__header {
+  border: 1px dotted black;
   margin: 20px 0; }
 
 .post__title {

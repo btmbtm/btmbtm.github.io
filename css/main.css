@@ -49,11 +49,9 @@ table {
 body {
   background-color: snow;
   font-family: 'Noto Sans', sans-serif;
-  font-size: inherit; }
-  @media screen and (min-width: 1200px) {
-    body {
-      max-width: 1200px;
-      margin: 0 auto; } }
+  font-size: inherit;
+  max-width: 550px;
+  margin: 0 auto; }
 
 h1 {
   font-size: 2em; }

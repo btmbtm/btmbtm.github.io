@@ -3,11 +3,20 @@ layout: default
 title: btmbtm
 ---
 <h1 class="homepage__title">btmbtm's homepage</h1>
-<ul class="postList">
-	{% for post in site.posts %}
-		<li class="postList_post"><span> {{ post.date | date: "%y%m%d" }} | <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	{% endfor %}
-</ul>
+
+<section>
+	<h2> ABOUT </h2>
+</section>
+
+
+<section>
+	<h2> POSTS </h2>
+	<ul class="postList">
+		{% for post in site.posts %}
+			<li class="postList_post"><span> {{ post.date | date: "%y%m%d" }} | <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+</section>
 
 		
 		

@@ -78,7 +78,11 @@ h6 {
   margin: 10px 0; }
 
 .postList_post {
-  font-size: 1.2em; }
+  font-size: 1.2em;
+  line-height: 1.5; }
+
+.post {
+  line-height: 1.5; }
 
 .post > p:first-child:first-letter {
   font-size: 1.5em; }

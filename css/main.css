@@ -78,8 +78,12 @@ h6 {
 .postList {
   margin: 10px 10px 0; }
 
-.postList_post {
-  font-size: 1em; }
+.postList__post {
+  font-size: 1em;
+  margin-left: 2em; }
+
+.postList__year {
+  margin: 5px 0; }
 
 header {
   border-bottom: 2px solid black;

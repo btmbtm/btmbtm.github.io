@@ -80,7 +80,8 @@ h6 {
 
 .postList__post {
   font-size: 1em;
-  margin-left: 2em; }
+  margin-left: 2em;
+  line-height: 1.3; }
 
 .postList__year {
   margin: 5px 0; }

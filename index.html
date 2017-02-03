@@ -15,21 +15,21 @@ title: btmbtm's homepage
 	<h2> POSTS </h2>
 	
 	<!-- SOURCE: http://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year -->
+	<div class="postList">
+		{% for post in site.posts %}
+		  {% assign currentdate = post.date | date: "%y%m" %}
+		  {% if currentdate != date %}
+		    {% unless forloop.first %}</ul>{% endunless %}
+		    <h3  class="postList__year">{{ currentdate }}</h3>
+		    <ul>
+		    {% assign date = currentdate %}
+		  {% endif %}
 
-	{% for post in site.posts %}
-	  {% assign currentdate = post.date | date: "%y%m" %}
-	  {% if currentdate != date %}
-	    {% unless forloop.first %}</ul>{% endunless %}
-	    <h3  class="postList__year">{{ currentdate }}</h3>
-	    <ul>
-	    {% assign date = currentdate %}
-	  {% endif %}
-
-	    <li class="postList__post"><span> {{ post.date | date: "%y%m%d" }} | <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	    
-	  {% if forloop.last %}</ul>{% endif %}
-	{% endfor %}
-
+		    <li class="postList__post"><span> {{ post.date | date: "%y%m%d" }} | <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		    
+		  {% if forloop.last %}</ul>{% endif %}
+		{% endfor %}
+	</div>
 </section>
 
 		

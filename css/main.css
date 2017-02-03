@@ -1,21 +1,47 @@
 /*
-Error: File to import not found or unreadable: layouts/_post .scss.
-        on line 15 of scss/main.scss
+Error: Invalid CSS after "...dia screen and ": expected media expression (e.g. (min-device-width: 800px)), was "min-width: $bre..."
+        on line 7 of scss/base/_base.scss
+        from line 7 of scss/main.scss
 
-10: // COMPONENTS
-11: @import 'components/_postList.scss';
-12: 
-13: // LAYOUTS
-14: @import 'layouts/_header.scss';
-15: @import 'layouts/_post .scss';
+2: 	background-color: snow;
+3: 	font-family: 'Noto Sans', sans-serif;
+4: 	font-size: 14px;
+5: 	max-width: 560px;
+6: 	margin: 0 auto;
+7: 	@media screen and min-width: $breakpoint--midA {
+8: 		font-size: 18px;
+9: 		
+10: 	}
+11: 
+12: }
 
 Backtrace:
-scss/main.scss:15
-/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/import_node.rb:67:in `rescue in import'
-/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/import_node.rb:45:in `import'
-/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/import_node.rb:28:in `imported_file'
-/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/import_node.rb:37:in `css_import?'
-/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:313:in `visit_import'
+scss/base/_base.scss:7
+scss/main.scss:7
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:1207:in `expected'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:1137:in `expected'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:1117:in `expr!'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:446:in `media_query'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:414:in `media_query_list'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:1115:in `expr!'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:409:in `media_directive'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:222:in `special_directive'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:197:in `directive'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:685:in `block_child'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:677:in `block_contents'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:666:in `block'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:658:in `ruleset'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:684:in `block_child'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:674:in `block_contents'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:125:in `stylesheet'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:41:in `parse'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/engine.rb:406:in `_to_tree'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/engine.rb:312:in `to_tree'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:326:in `block in visit_import'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/stack.rb:88:in `block in with_import'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/stack.rb:115:in `with_frame'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/stack.rb:88:in `with_import'
+/Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:325:in `visit_import'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/visitors/base.rb:36:in `visit'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.23/lib/sass/stack.rb:79:in `block in with_base'
@@ -53,4 +79,4 @@ scss/main.scss:15
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: layouts/_post .scss.\A         on line 15 of scss/main.scss\A \A 10: // COMPONENTS\A 11: @import 'components/_postList.scss';\A 12: \A 13: // LAYOUTS\A 14: @import 'layouts/_header.scss';\A 15: @import 'layouts/_post .scss';"; }
+  content: "Error: Invalid CSS after \"...dia screen and \": expected media expression (e.g. (min-device-width: 800px)), was \"min-width: $bre...\"\A         on line 7 of scss/base/_base.scss\A         from line 7 of scss/main.scss\A \A 2: 	background-color: snow;\A 3: 	font-family: 'Noto Sans', sans-serif;\A 4: 	font-size: 14px;\A 5: 	max-width: 560px;\A 6: 	margin: 0 auto;\A 7: 	@media screen and min-width: $breakpoint--midA {\A 8: 		font-size: 18px;\A 9: 		\A 10: 	}\A 11: \A 12: }"; }

@@ -67,7 +67,8 @@ code {
   padding: 5px;
   margin: 3px;
   background-color: lightgray;
-  font-family: 'Space Mono', monospace; }
+  font-family: 'Space Mono', monospace;
+  line-break: loose; }
 
 h1 {
   font-size: 2em; }

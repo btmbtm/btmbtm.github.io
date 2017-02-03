@@ -98,7 +98,8 @@ h6 {
 
 .postList ul {
   list-style: none;
-  padding: 0; }
+  padding: 0;
+  margin: 0; }
 
 header {
   border-bottom: 2px solid black;

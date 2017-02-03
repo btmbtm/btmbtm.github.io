@@ -81,6 +81,9 @@ h6 {
   font-size: 1.2em;
   line-height: 1.5; }
 
+header {
+  margin: 15px 0; }
+
 .post {
   line-height: 1.5; }
 
@@ -89,5 +92,8 @@ h6 {
 
 .post__title {
   margin: 10px 0; }
+
+section {
+  margin: 15px; }
 
 /*# sourceMappingURL=main.css.map */

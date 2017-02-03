@@ -118,7 +118,8 @@ header {
 
 .post__header {
   border-bottom: 2px dashed black;
-  margin: 20px 0; }
+  margin: 20px 0;
+  padding: 4px 0; }
 
 .post__title {
   margin: 5px 0; }

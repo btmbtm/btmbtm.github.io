@@ -4,19 +4,20 @@ layout: default
 
 <header>
 	<h1 class="header__title">btmbtm's thoughts</h1>
+
 </header>
 
 <article class="post">
 
 	<div class="post_header">
 		<h2 class="post__title">{{ page.date | date: "%y%m%d" }} | {{ page.title }}</h2>
+		<div><a href="http://btmbtm.github.io/"> HOME </a></div>
 	</div>
 
 	{{ content }}
 
 	<div class="post__footer">
-		<h4> by btmbtm </h4>
-		<a href="http://btmbtm.github.io/"> HOME </a>
+		<div> by btmbtm </div>
 	</div>
 
 </article>

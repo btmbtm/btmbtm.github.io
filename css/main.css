@@ -2,6 +2,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -47,6 +48,7 @@ table {
 
 body {
   background-color: snow;
+  font-family: 'Noto Sans', sans-serif;
   font-size: inherit; }
   @media screen and (min-width: 1200px) {
     body {

@@ -1,7 +1,8 @@
 body{
 	background-color: snow;
+	font-family: 'Noto Sans', sans-serif;
 	font-size: inherit;
-	
+
 	@media screen and (min-width: $breakpoint--max) {
 		max-width: 1200px;
 		margin: 0 auto;

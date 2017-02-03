@@ -2,8 +2,6 @@
 layout: post
 title: mdworks (#01) | HTML global <em>accesskey</em> attribute [Encyclopedia Entry]
 date: 2016-07-19
-category: mdworks
-tags: []
 ---
 
 *the accesskey attribute generates keyboard shortcuts for HTML elements*

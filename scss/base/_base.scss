@@ -4,6 +4,7 @@ body{
 	font-size: 14px;
 	max-width: 560px;
 	margin: 0 auto;
+	padding: 5px;
 	@media screen and (min-width: $breakpoint--midA) {
 		font-size: 18px;
 		

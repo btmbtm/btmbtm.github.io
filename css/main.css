@@ -51,7 +51,8 @@ body {
   font-family: 'Noto Sans', sans-serif;
   font-size: 14px;
   max-width: 560px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 5px; }
   @media screen and (min-width: 600px) {
     body {
       font-size: 18px; } }
@@ -82,10 +83,12 @@ h6 {
 
 header {
   border-bottom: 2px solid black;
-  margin: 15px 0; }
+  margin: 15px 0;
+  padding: 10px 0; }
 
 .post {
-  line-height: 1.5; }
+  line-height: 1.5;
+  margin: 15px 0; }
 
 .post > p:first-child:first-letter {
   font-size: 1.5em; }
@@ -94,6 +97,6 @@ header {
   margin: 10px 0; }
 
 section {
-  margin: 15px; }
+  margin: 15px 0; }
 
 /*# sourceMappingURL=main.css.map */

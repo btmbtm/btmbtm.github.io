@@ -17,7 +17,7 @@ title: btmbtm's homepage
 	<!-- SOURCE: http://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year -->
 
 	{% for post in site.posts %}
-	  {% assign currentdate = post.date | date: "%Y" %}
+	  {% assign currentdate = post.date | date: "%y%m" %}
 	  {% if currentdate != date %}
 	    {% unless forloop.first %}</ul>{% endunless %}
 	    <h3  class="postList__year">{{ currentdate }}</h3>
@@ -29,7 +29,7 @@ title: btmbtm's homepage
 	    
 	  {% if forloop.last %}</ul>{% endif %}
 	{% endfor %}
-	
+
 </section>
 
 		

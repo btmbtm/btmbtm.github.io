@@ -97,7 +97,7 @@ h6 {
   margin: 9px 0; }
 
 .postList ul {
-  list-style: cjk-decimal;
+  list-style-type: square;
   padding: 0;
   margin: 0; }
 

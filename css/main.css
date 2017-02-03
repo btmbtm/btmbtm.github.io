@@ -75,13 +75,13 @@ h6 {
   font-size: 0.67em; }
 
 .postList {
-  margin: 10px 0; }
+  margin: 10px 10px 0; }
 
 .postList_post {
-  font-size: 1.2em;
-  line-height: 1.5; }
+  font-size: 1em; }
 
 header {
+  border-bottom: 2px solid black;
   margin: 15px 0; }
 
 .post {

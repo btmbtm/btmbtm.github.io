@@ -3,6 +3,7 @@
    License: none (public domain)
 */
 @import url("https://fonts.googleapis.com/css?family=Noto+Sans");
+@import url("https://fonts.googleapis.com/css?family=Space+Mono");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -56,6 +57,11 @@ body {
   @media screen and (min-width: 600px) {
     body {
       font-size: 18px; } }
+
+code {
+  padding: 3px;
+  background-color: lightgray;
+  font-family: 'Space Mono', monospace; }
 
 h1 {
   font-size: 2em; }

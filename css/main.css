@@ -71,6 +71,12 @@ h5 {
 h6 {
   font-size: 0.67em; }
 
+.postList {
+  margin: 10px 0; }
+
+.postList_post {
+  font-size: 1.2em; }
+
 .homepage__title {
   margin: 15px 0; }
 

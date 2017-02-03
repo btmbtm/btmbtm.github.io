@@ -1,0 +1,6 @@
+body{
+	background-color: snow;
+	@media screen and (min-width: $breakpoint--max) {
+		max-width: 1200px;
+	}
+}

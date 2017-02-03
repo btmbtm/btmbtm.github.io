@@ -3,8 +3,8 @@ body{
 	font-family: 'Noto Sans', sans-serif;
 	font-size: 14px;
 	max-width: 560px;
-	margin: 0 auto;
-	padding: 5px;
+	margin: 5px auto;
+	padding: 10px;
 	@media screen and (min-width: $breakpoint--midA) {
 		font-size: 18px;	
 	}

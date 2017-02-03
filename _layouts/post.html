@@ -7,13 +7,18 @@ layout: default
 </header>
 
 <article class="post">
-	<h2 class="post__title">{{ page.date | date: "%y%m%d" }} | {{ page.title }}</h2>
+	<header>
+		<h2 class="post__title">{{ page.date | date: "%y%m%d" }} | {{ page.title }}</h2>
+	</header>
+
 	{{ content }}
+
+	<footer class="post__footer">
+		<a href="http://btmbtm.github.io/"> btmbtm HOME </a>
+	</footer>
+
 </article>
 
-<footer>
-	<a href="http://btmbtm.github.io/"> HOMEPAGE </a>
-</footer>
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHINESE CHARACTER REVIEW"
+title: "DAILY CHINESE CHARACTER REVIEW"
 date: 2017-02-03
 ---
   

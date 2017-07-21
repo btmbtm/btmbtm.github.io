@@ -1,4 +1,0 @@
-name: btmbtm
-markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink: /blog/:year/:month/:day/:title

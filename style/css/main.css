@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=IM+Fell+Great+Primer");
+* {
+  box-sizing: border-box; }
+
+body {
+  max-width: 800px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif; }
+
+* {
+  box-sizing: border-box; }
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'IM Fell Great Primer', serif; }
+
+nav {
+  padding: 10px; }
+
+header {
+  padding: 10px; }
+
+main {
+  padding: 10px; }
+
+section {
+  padding: 10px; }
+
+/*# sourceMappingURL=main.css.map */

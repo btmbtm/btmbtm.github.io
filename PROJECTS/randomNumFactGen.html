@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		body{ 
+		max-width: 500px;
+		margin: 0 auto;
+		}
+		footer{
+		  margin: 10px 0;
+		  font-size: 10px;
+		  border-top: 1px solid black;
+		  padding: 3px;
+		}
+		#factCont{
+			padding: 10px;
+			font-size: 20px;
+			font-size: Arial;
+			border: 2px solid black;
+			margin: 10px 0;
+		}
+	</style>
+</head>
+<body>
+	<main>
+	  <h1>Get a Random <em>Number Fact</em></h1>
+	  <button id="genBtn">Generate Random Number Fact</button>
+	  <div id="factCont">
+	    Nothing to see yet!
+	  </div>
+	</main> 
+	<footer>
+	  Built w/ AJAX and <a href="http://numbersapi.com/">Numbers API</a>
+	</footer>
+	<script>
+		'use strict';
+		var DOC = document;
+		var ID_SEL = id => document.getElementById(id);
+
+		var genBtn = ID_SEL('genBtn');
+		var factCont = ID_SEL('factCont');
+
+		                        
+		genBtn.addEventListener('click', function(){
+			var xhr = new XMLHttpRequest();
+			xhr.onload = function(){ 
+				if(xhr.status === 200){ factCont.textContent = xhr.response; } 
+			}
+            xhr.open('GET', 'http://numbersapi.com/'+ Math.floor(Math.random() * 100));
+			xhr.send();
+		});
+
+	</script>
+</body>
+</html>

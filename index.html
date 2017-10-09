@@ -1,41 +1,42 @@
----
-layout: default
-title: btmbtm's homepage
----
-<header>
-	<h1 class="header__title">btmbtm</h1>
-	<nav class="header__nav">HOME</nav>
-</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Brian Merriman - Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="style/css/main.css">
+</head>
+<body>
+	<header>
+		<h1 class="header__title">Brian Merriman - Developer  </h1>
+	</header>
+	<main>
+		
+		<section>
+			<h2> Major Projects </h2>
+			<h3> Current </h3>
+		</section>
+		
+		<section> 
+			<h2> Explorations / Small Projects </h2> 
+			<table>
+				<thead>
+					<tr><th>Date</th><th>Name</th><th>Description</th><th>Skills</th><th>Link</th></tr>
+				</thead>
+			</table>
+		</section>
+		
+		<section>
+			<h2> Skills/Abilties </h2>
+		</section>
 
-<section>
-	<h2> ABOUT </h2>
-</section>
+		<section>
+			<h2> Links </h2>
+		</section>
 
-<section>
-	<h2> PROJECTS</h2>
-</section>
-
-<section>
-	<h2> THOUGHTS </h2>
+	</main>
+	<footer>
+		
+	</footer>
 	
-	<!-- SOURCE: http://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year -->
-	<div class="postList">
-		{% for post in site.posts %}
-		  {% assign currentdate = post.date | date: "%Y%m" %}
-		  {% if currentdate != date %}
-		    {% unless forloop.first %}</ul>{% endunless %}
-		    <h3  class="postList__year">{{ currentdate }}</h3>
-		    <ul>
-		    {% assign date = currentdate %}
-		  {% endif %}
-
-		    <li class="postList__post"><span> {{ post.date | date: "%Y%m%d" }} | <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		    
-		  {% if forloop.last %}</ul>{% endif %}
-		{% endfor %}
-	</div>
-</section>
-
-		
-		
-
+</body>
+</html>

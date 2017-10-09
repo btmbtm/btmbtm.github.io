@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Sign Up</title>
+	<style>
+		body{
+			max-width: 500px;
+			margin: 0 auto;
+		}
+		form{
+			padding: 10px;
+		}
+
+		label{
+			display: flex;
+			flex-direction: column;
+		}
+
+		input {
+
+			font-size: 20px;
+			margin: 3px;
+		}
+
+		button {
+			display: block;
+			width: 100%;
+			padding: 10px;
+			font-size: 20px;
+			background-color: white;
+			border: 2px solid black;
+			margin: 0 auto;
+		}
+
+		button:hover{
+			background-color: black;
+			color: white;
+			border-color: white
+		}
+
+
+	</style>
+</head>
+<body>
+	<form id="signup">
+	<h1>Create an Account</h1>
+		<label for="realname">Name: <input required id="realname" type="text"></label><br>
+		<label for="email">Email: <input required id="email" type="email"></label><br>
+		<label for="username">Username: <input required id="username" type="text"></label><br>
+		<label for="password">Password: <input require id="password" type="password"></label><br>
+		<button type="submit">Submit</button>
+		<h2 id="successMessage"></h2>
+	</form>
+	<h1 id="welcomeMessage"></h1>
+	<script>
+		'use strict';
+		var DOC = document;
+
+		var ID_SEL = id => DOC.getElementById(id);
+
+		var signupForm = ID_SEL('signup');
+		var real = ID_SEL('realname');
+		var username = ID_SEL('username');
+		var email = ID_SEL('email');
+		var password = ID_SEL('password');
+		var welcomeMessage = ID_SEL('welcomeMessage');
+		var successMessage = ID_SEL('successMessage');
+		
+		var savedName = localStorage.getItem('realname');
+		console.log(savedName);
+
+		if(savedName!=null){
+			signupForm.remove();	
+			welcomeMessage.textContent = "Welcome " + savedName + "!"
+		} 
+
+
+
+
+
+		signupForm.addEventListener('submit',function(e){
+			
+			e.preventDefault();
+			
+			var xhr = new XMLHttpRequest();
+			
+			xhr.onload = function () {
+			    if (xhr.status === 200) {
+		    		console.log(JSON.parse(xhr.response).data); 
+					localStorage.setItem('realname', realname.value);
+					successMessage.textContent = "Account creation complete! Thanks for signing up " + realname.value + "!"
+
+		    	}
+			};
+			console.log(name.value)
+			var formData = {
+				realname: realname.value,
+				username: username.value,
+				email: email.value,
+				password: password.value
+			}
+
+			console.log(formData);
+
+			xhr.open('POST', '/create_account');
+			xhr.send(JSON.stringify(formData));
+
+
+		});
+	</script>
+</body>
+</html>

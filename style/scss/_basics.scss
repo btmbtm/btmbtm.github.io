@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+$red: red; $gre: green; $blu: blue; $whi: white;
+
+*{ box-sizing: border-box; }
+
+body{ max-width: 800px; }
+
+h1,h2,h3,h4,h5,h6 { font-family: 'Raleway', sans-serif; }
+
+@mixin layout{
+	padding: 10px;
+}

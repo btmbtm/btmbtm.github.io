@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,8DAAsD;ACAtD,8DAAsD;AACtD,2EAAmE;ADG3E,CAAC;EAAE,UAAU,EAAE,UAAU;;AAEzB,IAAI;EAAE,SAAS,EAAE,KAAK;;AAEtB,sBAAkB;EAAE,WAAW,EAAE,qBAAqB;;ACLtD,CAAC;EAAE,UAAU,EAAE,UAAU;;AAEzB,IAAI;EAAE,SAAS,EAAE,KAAK;EAAE,MAAM,EAAE,MAAM;EAAE,OAAO,EAAE,IAAI;;AAErD,sBAAkB;EAAE,WAAW,EAAE,6BAA6B;;ACP9D,GAAG;ECAY,OAAO,EAAE,IAAI;;ACA5B,MAAM;EDAS,OAAO,EAAE,IAAI;;AEA5B,IAAK;EFAU,OAAO,EAAE,IAAI;;AGA5B,OAAQ;EHAO,OAAO,EAAE,IAAI",
+"sources": ["../scss/_basics.scss","../scss/basics/_base.scss","../scss/layout/_nav.scss","../scss/basics/_mixins.scss","../scss/layout/_header.scss","../scss/layout/_main.scss","../scss/layout/_section.scss"],
+"names": [],
+"file": "main.css"
+}

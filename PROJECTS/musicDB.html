@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<style>
+		td{
+			padding: 4px;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Fun Muzak </h1>
+	<table id="albums"></table>
+	<script>
+		(function () {
+		    'use strict';
+		 	var albums_table = document.getElementById('albums');
+		 	var albums = [];
+		 	var db = null;
+			var xhr = new XMLHttpRequest(); 
+
+			xhr.onload = function(){
+				console.log("OPENED DB w/ DATA");
+	            var albumData = JSON.parse(xhr.response).aRows;
+	            for(var i = 0; i < albumData.length; i++){
+	            	var re = /\[(.+)\] (.+) \(/;
+	            	var res = re.exec(albumData[i]);
+	            	var newAlb = {name: res[1], artist: res[2], year: '200' }
+	            	albums.push(newAlb);
+	            }
+	            console.log(albums);
+				openDB();
+			};
+
+		 	var CREATE_ELEM = tagName => document.createElement(tagName);
+
+			if(sessionStorage.getItem('dbUploaded') != 'complete'){
+			 	    xhr.open('GET', 'https://freemusicarchive.org/api/trackSearch?q=fun&limit=5');
+				xhr.send();
+			} else {
+				console.log("ALTERNATIVE")
+				openDB();
+			}
+
+
+
+			
+			function openDB(){
+				if ('indexedDB' in window) {
+		        var openRequest = window.indexedDB.open('albumsDB', 1);		 
+		        // create an object store
+		        openRequest.onupgradeneeded = function (event) {
+		            db = event.target.result;
+		            var objectStore = db.createObjectStore('albums');
+
+		            objectStore.transaction.oncomplete = function (event) {
+		                // start a new transaction
+		    					sessionStorage.setItem('dbUploaded','complete');            
+		           
+
+
+
+            					var transaction = db.transaction('albums', 'readwrite'),
+            					    objectStore = transaction.objectStore('albums');
+            					// mock data
+		 					console.log(albums)
+		                	for (var inc in albums) {
+		                		console.log(albums[inc].name)
+		                	 objectStore.add(albums[inc] , inc ); } 
+
+            				
+
+
+		            };
+		 
+		        };
+
+		        openRequest.onsuccess = function (event) {
+		            db = event.target.result;
+		            displayAlbums();
+		            console.log('SUCCESS - OPEN DB');
+		        };
+
+		        function displayAlbums(){
+		        	var transaction = db.transaction('albums', 'readonly');
+					var objectStore = transaction.objectStore('albums');
+		            var getRequest = objectStore.getAll();
+
+		            getRequest.onsuccess = function(event) {
+		                var albums = event.target.result;
+
+		                if(albums.length === 0){ console.log("EMPTY DB"); return; }
+		                else { console.log("DB!")}
+
+		                albums.forEach(function(album){
+		                	var album_row = CREATE_ELEM('tr');
+
+		                	var album_name = CREATE_ELEM('td'); album_name.textContent = album.name;
+							var album_artist = CREATE_ELEM('td'); album_artist.textContent = album.artist;
+		                	var album_year = CREATE_ELEM('td'); album_year.textContent = album.year;
+
+		                	album_row.appendChild(album_name); album_row.appendChild(album_artist);
+		                	 // album_row.appendChild(album_year);
+
+		                	albums_table.appendChild(album_row); 
+		                });
+		            }
+		        };
+			}
+		    
+
+
+
+
+		    }
+		 
+		}());
+	</script>
+</body>
+</html>
